@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "lugar": "aguilares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.61829090118408,
+          -27.425147407434608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lugar": "aguilares2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.61865568161011,
+          -27.425485475467095
+        ]
+      }
+    }
+  ]
+}
