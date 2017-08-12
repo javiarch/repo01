@@ -39,6 +39,19 @@
           -27.425844969211145
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lugar": "Plazoleta Batalla de Tucumán"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.61771154403687,
+          -27.429627915191926
+        ]
+      }
     }
   ]
 }
