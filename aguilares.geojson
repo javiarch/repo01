@@ -43,26 +43,13 @@
     {
       "type": "Feature",
       "properties": {
-        "lugar": "Plazoleta Batalla de Tucumán"
+        "lugar": "Municipio"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.61771154403687,
-          -27.429627915191926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "lugar": "Comisaria"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.61620950698853,
-          -27.429004178460495
+          -65.61472356319427,
+          -27.430823003969685
         ]
       }
     }
