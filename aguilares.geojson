@@ -52,6 +52,19 @@
           -27.430823003969685
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lugar": "cancha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.61975002288818,
+          -27.427261506014872
+        ]
+      }
     }
   ]
 }
