@@ -65,6 +65,19 @@
           -27.427261506014872
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lugar": "plazoleta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.61771154403687,
+          -27.42988978834174
+        ]
+      }
     }
   ]
 }
