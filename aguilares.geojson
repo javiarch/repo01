@@ -69,7 +69,10 @@
     {
       "type": "Feature",
       "properties": {
-        "lugar": "plazoleta"
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "lugar": "plazoleta Batalla de Tucuman"
       },
       "geometry": {
         "type": "Point",
