@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Ciudad": "Aguilares",
+        "Nombre": "Ingenio Aguilares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.61732530593872,
+          -27.426252076607323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ciudad": "Santa Barbara",
+        "Nombre": "Santa Barbara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.60617804527283,
+          -27.45880628336392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ciudad": "Concepción",
+        "Nombre": "La Corona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.60264825820923,
+          -27.35671257797648
+        ]
+      }
+    }
+  ]
+}
