@@ -45,6 +45,20 @@
           -27.35671257797648
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ciudad": "Alto Verde",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.5660629272461,
+          -27.39630782414327
+        ]
+      }
     }
   ]
 }
