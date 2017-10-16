@@ -1,0 +1,6011 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380094205,
+        "Escuela": "380094205 - ESCUELA SECUNDARIA RURAL N 2",
+        "Localidad": "CHORCAN",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-04",
+        "Latitud": -23.05153,
+        "Longitud": -65.20823,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.20823,
+          -23.05153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380080600,
+        "Escuela": "380080600 - COLEGIO SECUNDARIO N 19",
+        "Localidad": "CASABINDO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-07",
+        "Latitud": -22.9886,
+        "Longitud": -66.031065,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.031065,
+          -22.9886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 180027900,
+        "Escuela": "180027900 ESCUELA Nro. 925 GOBERNADOR ELIAS GALVAN - CURUZ CUATIA",
+        "Localidad": "TIERRA COLORADA",
+        "Provincia": "Corrientes",
+        "Fecha": "2017-02-07",
+        "Latitud": -29.635625,
+        "Longitud": -58.612925,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.612925,
+          -29.635625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380026300,
+        "Escuela": "380026300 ESCUELA N 372 JUSTO EUSTAQUIO MAMANI",
+        "Localidad": "SAYATE",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-07",
+        "Latitud": -22.88448,
+        "Longitud": -65.810957,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.810957,
+          -22.88448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380031800,
+        "Escuela": "380031800 ESCUELA N 344 HERMOGENES CAYO",
+        "Localidad": "MIRAFLORES DE LA CANDELARIA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-08",
+        "Latitud": -22.831,
+        "Longitud": -65.873451,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.873451,
+          -22.831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380080500,
+        "Escuela": "380080500 COLEGIO SECUNDARIO N 22",
+        "Localidad": "COCHINOCA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-08",
+        "Latitud": -22.746,
+        "Longitud": -65.897253,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.897253,
+          -22.746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 180091900,
+        "Escuela": "180091900 ESCUELA Nro. 282 FRANCISCO JAVIER CARRUEGA - MERCEDES",
+        "Localidad": "RINCON DE YAGUARY",
+        "Provincia": "Corrientes",
+        "Fecha": "2017-02-08",
+        "Latitud": -29.646079,
+        "Longitud": -57.630962,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.630962,
+          -29.646079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 180028100,
+        "Escuela": "180028100 ESCUELA Nro. 334 GRAL.JOSE MATIAS ZAPIOLA - CURUZU CUATIA",
+        "Localidad": "TRES BOCAS DEL YATAY",
+        "Provincia": "Corrientes",
+        "Fecha": "2017-02-09",
+        "Latitud": -29.522687,
+        "Longitud": -58.55021,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.55021,
+          -29.522687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 180032200,
+        "Escuela": "180032200 ESCUELA Nro. 339 - CURUZU CUATIA",
+        "Localidad": "VACA PASO",
+        "Provincia": "Corrientes",
+        "Fecha": "2017-02-10",
+        "Latitud": -29.361914,
+        "Longitud": -58.587207,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.587207,
+          -29.361914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380032100,
+        "Escuela": "380032100 ESCUELA N 43",
+        "Localidad": "QUICHAGUA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-10",
+        "Latitud": -22.77572,
+        "Longitud": -66.021494,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.021494,
+          -22.77572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380031700,
+        "Escuela": "380031700 ESCUELA N 324 SARG. CRISTINO EUFRACIO ROJAS",
+        "Localidad": "AGUA CALIENTE DE LA PUNA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-13",
+        "Latitud": -22.83713,
+        "Longitud": -66.078622,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.078622,
+          -22.83713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380026400,
+        "Escuela": "380026400 ESCUELA N 72",
+        "Localidad": "TAMBILLOS",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-13",
+        "Latitud": -22.89687,
+        "Longitud": -65.962475,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.962475,
+          -22.89687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380031600,
+        "Escuela": "380031600 ESCUELA N 345",
+        "Localidad": "MUÑAYOC",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-14",
+        "Latitud": -22.69856,
+        "Longitud": -66.130237,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.130237,
+          -22.69856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380065600,
+        "Escuela": "380065600 - COLEGIO POLIMODAL N 4",
+        "Localidad": "RINCONADA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-15",
+        "Latitud": -22.44083,
+        "Longitud": -66.166397,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.166397,
+          -22.44083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380092503,
+        "Escuela": "380092503 - ESCUELA RURAL N 1 - SANTO DOMINGO",
+        "Localidad": "SANTO DOMINGO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-15",
+        "Latitud": -22.54233,
+        "Longitud": -66.222857,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.222857,
+          -22.54233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 180007200,
+        "Escuela": "180007200 ESCUELA Nro. 584 GENERAL SAN MARTIN - MERCEDES",
+        "Localidad": "UGUAY",
+        "Provincia": "Corrientes",
+        "Fecha": "2017-02-15",
+        "Latitud": -28.645884,
+        "Longitud": -57.482431,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.482431,
+          -28.645884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380092504,
+        "Escuela": "380092504 - ESCUELA RURAL N 1 - LOMA BLANCA",
+        "Localidad": "LOMA BLANCA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-16",
+        "Latitud": -22.4722,
+        "Longitud": -66.48411,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.48411,
+          -22.4722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380092506,
+        "Escuela": "380092506 - ESCUELA RURAL N 1 - PAICONE",
+        "Localidad": "PAICONE",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-16",
+        "Latitud": -22.21935,
+        "Longitud": -66.426237,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.426237,
+          -22.21935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380092511,
+        "Escuela": "380092511 - ESCUELA  RURAL N 1 - LIVIARA",
+        "Localidad": "LIVIARA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-16",
+        "Latitud": -22.5244,
+        "Longitud": -66.33812,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.33812,
+          -22.5244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 180109900,
+        "Escuela": "180109900 ESCUELA Nro. 862 - CARLOS PELLEGRINI - MERCEDES",
+        "Localidad": "COLONIA CARLOS PELLEGRINI",
+        "Provincia": "Corrientes",
+        "Fecha": "2017-02-16",
+        "Latitud": -28.537205,
+        "Longitud": -57.0988,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.0988,
+          -28.537205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380075200,
+        "Escuela": "380075200 - COLEGIO SECUNDARIO N 8 \"HEROES DE MALVINAS\"",
+        "Localidad": "LAGUNILLAS",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-17",
+        "Latitud": -22.46221,
+        "Longitud": -66.628147,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.628147,
+          -22.46221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380032200,
+        "Escuela": "380032200 ESCUELA N 71",
+        "Localidad": "QUETA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-20",
+        "Latitud": -22.6674,
+        "Longitud": -65.975806,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.975806,
+          -22.6674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380051400,
+        "Escuela": "380051400 ESCUELA N 290",
+        "Localidad": "ABRALAITE",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-21",
+        "Latitud": -23.16911,
+        "Longitud": -65.794351,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.794351,
+          -23.16911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380092508,
+        "Escuela": "380092508 - ESCUELA RURAL N 1 - HUANCAR",
+        "Localidad": "HUANCAR",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-21",
+        "Latitud": -23.56378,
+        "Longitud": -66.410166,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.410166,
+          -23.56378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380025800,
+        "Escuela": "380025800 ESCUELA N 355",
+        "Localidad": "QUERA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-21",
+        "Latitud": -23.10098,
+        "Longitud": -65.762845,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.762845,
+          -23.10098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380077300,
+        "Escuela": "380077300 - COLEGIO SECUNDARIO N 13",
+        "Localidad": "ABDON CASTRO TOLAY",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-22",
+        "Latitud": -23.34191,
+        "Longitud": -66.090049,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.090049,
+          -23.34191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 180092400,
+        "Escuela": "180092400 ESCUELA Nro. 96 REMEDIOS ESCALADA - PASO DE LOS LIBRES",
+        "Localidad": "SAN ANTONIO",
+        "Provincia": "Corrientes",
+        "Fecha": "2017-02-24",
+        "Latitud": -29.747544,
+        "Longitud": -57.553393,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.553393,
+          -29.747544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380090000,
+        "Escuela": "380090000 - COLEGIO SECUNDARIO N 50",
+        "Localidad": "SANTUARIO DE 3 POZOS",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-24",
+        "Latitud": -23.53323,
+        "Longitud": -65.963537,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.963537,
+          -23.53323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380094209,
+        "Escuela": "380094209 - ESCUELA SECUNDARIA RURAL N 2",
+        "Localidad": "OLAROZ CHICO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-24",
+        "Latitud": -23.3935,
+        "Longitud": -66.80276,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.80276,
+          -23.3935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380051000,
+        "Escuela": "380051000 ESCUELA N 128 LEOPOLDO LUGONES",
+        "Localidad": "RINCONADILLAS",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-02-24",
+        "Latitud": -23.38471,
+        "Longitud": -65.95735,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.95735,
+          -23.38471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380094201,
+        "Escuela": "380094201 - ESCUELA SECUNDARIA RURAL N 2",
+        "Localidad": "CIANZO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-03-02",
+        "Latitud": -23.17312,
+        "Longitud": -65.158547,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.158547,
+          -23.17312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380094210,
+        "Escuela": "380094210 - ESCUELA SECUNDARIA RURAL N 2",
+        "Localidad": "EL TORO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-03-02",
+        "Latitud": -23.08354,
+        "Longitud": -66.701299,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.701299,
+          -23.08354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380092507,
+        "Escuela": "380092507 - ESCUELA RURAL N 1 - QUEBRALENA",
+        "Localidad": "QUEBRALENA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-03-03",
+        "Latitud": -23.28573,
+        "Longitud": -65.770234,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.770234,
+          -23.28573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380092501,
+        "Escuela": "380092501 - ESCUELA RURAL N 1 - LOBATON",
+        "Localidad": "LOBATON",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-03-03",
+        "Latitud": -24.39871,
+        "Longitud": -64.833962,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.833962,
+          -24.39871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540025701,
+        "Escuela": "540025701 AULA SAT. Nro. 1: ESC. Nro. 216",
+        "Localidad": "FLORENTINO AMEGHINO",
+        "Provincia": "Misiones",
+        "Fecha": "2017-03-03",
+        "Latitud": -27.63629,
+        "Longitud": -55.13484,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.13484,
+          -27.63629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540121500,
+        "Escuela": "540121500 ESCUELA DE FRONTERA JORNADA COMPLETA FORTÍN DE MBORORÉ",
+        "Localidad": "Libertad",
+        "Provincia": "Misiones",
+        "Fecha": "2017-03-06",
+        "Latitud": -25.62945,
+        "Longitud": -54.5662,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.5662,
+          -25.62945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380051100,
+        "Escuela": "380051100 ESCUELA N 325 INDEPENDENCIA",
+        "Localidad": "SAN FRANCISCO DE ALFARCITO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-03-08",
+        "Latitud": -23.31987,
+        "Longitud": -65.973974,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.973974,
+          -23.31987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540160300,
+        "Escuela": "540160300 ESCUELA Nro. 95",
+        "Localidad": "El Soberbio",
+        "Provincia": "Misiones",
+        "Fecha": "2017-03-08",
+        "Latitud": -27.222718,
+        "Longitud": -54.351798,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.351798,
+          -27.222718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860071300,
+        "Escuela": "860071300 ESCUELA Nro.  1165",
+        "Localidad": "TUSCA POZO",
+        "Provincia": "Santiago del estero",
+        "Fecha": "2017-03-08",
+        "Latitud": -26.72427,
+        "Longitud": -64.4468,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4468,
+          -26.72427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380077100,
+        "Escuela": "380077100 - COLEGIO DE NIVEL SECUNDARIO N 11",
+        "Localidad": "TUSAQUILLA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-03-08",
+        "Latitud": -23.19091,
+        "Longitud": -65.98885,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.98885,
+          -23.19091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380026000,
+        "Escuela": "380026000 ESCUELA N 154",
+        "Localidad": "COCHAGOSTA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-03-08",
+        "Latitud": -22.97058,
+        "Longitud": -65.876457,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.876457,
+          -22.97058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540011700,
+        "Escuela": "540011700 ESC. Nro. 533: BERNARDO DE MONTEAGUDO",
+        "Localidad": "EL SOBERBIO",
+        "Provincia": "Misiones",
+        "Fecha": "2017-03-09",
+        "Latitud": -27.284499,
+        "Longitud": -54.096284,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.096284,
+          -27.284499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860070300,
+        "Escuela": "860070300 ESCUELA Nro.  320",
+        "Localidad": "BAJO ALEGRE",
+        "Provincia": "Santiago del estero",
+        "Fecha": "2017-03-10",
+        "Latitud": -26.68895,
+        "Longitud": -64.45447,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.45447,
+          -26.68895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380094208,
+        "Escuela": "380094208 - ESCUELA SECUNDARIA RURAL N 2",
+        "Localidad": "AGUA DE CASTILLA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-03-10",
+        "Latitud": -23.21779,
+        "Longitud": -65.806743,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.806743,
+          -23.21779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540011601,
+        "Escuela": "540011601 AULA SAT. Nro. 01: ESC. Nro. 618",
+        "Localidad": "EL SOBERBIO",
+        "Provincia": "Misiones",
+        "Fecha": "2017-03-10",
+        "Latitud": -27.166236,
+        "Longitud": -53.962854,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.962854,
+          -27.166236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860147600,
+        "Escuela": "860147600 ESCUELA Nro.  470",
+        "Localidad": "LA GUANACA",
+        "Provincia": "Santiago del estero",
+        "Fecha": "2017-03-10",
+        "Latitud": -26.7547,
+        "Longitud": -64.42447,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.42447,
+          -26.7547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540002700,
+        "Escuela": "540002700 ESC. Nro. 477: ALTO URUGUAY",
+        "Localidad": "EL SOBERBIO",
+        "Provincia": "Misiones",
+        "Fecha": "2017-03-13",
+        "Latitud": -27.4218,
+        "Longitud": -54.280523,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.280523,
+          -27.4218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540057400,
+        "Escuela": "540057400 ESC. Nro. 561: GABRIELA MISTRAL",
+        "Localidad": "EL SOBERBIO",
+        "Provincia": "Misiones",
+        "Fecha": "2017-03-13",
+        "Latitud": -27.365964,
+        "Longitud": -54.22735,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.22735,
+          -27.365964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860146903,
+        "Escuela": "860146903 AGRUPAMIENTO 86031 ESC. Nro.  280",
+        "Localidad": "EL AÑIL",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-03-13",
+        "Latitud": -27.151125,
+        "Longitud": -64.603101,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.603101,
+          -27.151125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860146905,
+        "Escuela": "860146905 AGRUPAMIENTO 8631 ESC. Nro.  5",
+        "Localidad": "LOS RALOS",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-03-13",
+        "Latitud": -27.087165,
+        "Longitud": -64.469016,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.469016,
+          -27.087165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540011900,
+        "Escuela": "540011900 ESC. Nro. 65: BARRANCAS DEL URUGUAY (F.J.C.)",
+        "Localidad": "EL SOBERBIO",
+        "Provincia": "Misiones",
+        "Fecha": "2017-03-14",
+        "Latitud": -27.4219,
+        "Longitud": -54.280524,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.280524,
+          -27.4219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860214501,
+        "Escuela": "860214501 AGRUPAMIENTO Nro. 86036 ESC Nro. 391",
+        "Localidad": "LA FORTUNA",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-03-14",
+        "Latitud": -26.744746,
+        "Longitud": -64.278523,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.278523,
+          -26.744746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860146901,
+        "Escuela": "860146901 AGRUPAMIENTO 86031 ESC. Nro.  324",
+        "Localidad": "BUEN LUGAR",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-03-14",
+        "Latitud": -27.145992,
+        "Longitud": -64.377579,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.377579,
+          -27.145992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860146904,
+        "Escuela": "860146904 AGRUPAMIENTO 86031 ESC. Nro.  1091",
+        "Localidad": "ISCA YACU",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-03-14",
+        "Latitud": -27.031901,
+        "Longitud": -64.611483,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.611483,
+          -27.031901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860214504,
+        "Escuela": "860214504 AGRUPAMIENTO Nro. 86036 ESC Nro. 621",
+        "Localidad": "EL PALOMAR",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-03-14",
+        "Latitud": -26.88659,
+        "Longitud": -64.60396,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.60396,
+          -26.88659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540076200,
+        "Escuela": "540076200 ESCUELA Nro. 683 \"BILINGUE YAKA PA´U\"",
+        "Localidad": "25 de mayo",
+        "Provincia": "Misiones",
+        "Fecha": "2017-03-15",
+        "Latitud": -27.320542,
+        "Longitud": -54.825303,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.825303,
+          -27.320542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860071900,
+        "Escuela": "860071900 ESCUELA Nro.  1035",
+        "Localidad": "SAN ANDRES",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-03-15",
+        "Latitud": -26.796765,
+        "Longitud": -64.307259,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.307259,
+          -26.796765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860146902,
+        "Escuela": "860146902 AGRUPAMIENTO 86031 ESC. Nro.  1100",
+        "Localidad": "CASHICO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-03-15",
+        "Latitud": -27.187457,
+        "Longitud": -64.609111,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.609111,
+          -27.187457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540011701,
+        "Escuela": "540011701 AULA SAT. Nro. 01: ESC. Nro. 533",
+        "Localidad": "EL SOBERBIO",
+        "Provincia": "Misiones",
+        "Fecha": "2017-03-15",
+        "Latitud": -27.28455,
+        "Longitud": -54.096247,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.096247,
+          -27.28455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860072000,
+        "Escuela": "860072000 ESCUELA Nro.  693",
+        "Localidad": "SAN FELIX",
+        "Provincia": "Santiago del estero",
+        "Fecha": "2017-03-16",
+        "Latitud": -26.840701,
+        "Longitud": -64.297637,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.297637,
+          -26.840701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540007300,
+        "Escuela": "540007300 ESCUELA Nro. 166",
+        "Localidad": "Santa Ana",
+        "Provincia": "Misiones",
+        "Fecha": "2017-03-16",
+        "Latitud": -27.43374,
+        "Longitud": -55.57916,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.57916,
+          -27.43374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540022000,
+        "Escuela": "540022000 ESCUELA DE EDUCACIÓN INTERCULTURAL BILINGUE Nro. 44",
+        "Localidad": "San Ignacio",
+        "Provincia": "Misiones",
+        "Fecha": "2017-03-16",
+        "Latitud": -27.2654,
+        "Longitud": -55.49199,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.49199,
+          -27.2654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860172600,
+        "Escuela": "860172600 ESCUELA Nro.  918",
+        "Localidad": "SAN JOSE",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-03-17",
+        "Latitud": -26.724555,
+        "Longitud": -64.319833,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.319833,
+          -26.724555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380094206,
+        "Escuela": "380094206 - ESCUELA SECUNDARIA RURAL N 2",
+        "Localidad": "CASPALA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-03-23",
+        "Latitud": -23.36382,
+        "Longitud": -65.091787,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.091787,
+          -23.36382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380083800,
+        "Escuela": "380083800 - COLEGIO SECUNDARIO N 31",
+        "Localidad": "SANTA ANA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-03-23",
+        "Latitud": -23.35551,
+        "Longitud": -64.989255,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.989255,
+          -23.35551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860055900,
+        "Escuela": "860055900 ESCUELA Nro.  806 AMERICA GONZALEZ DE RISSO PATRON",
+        "Localidad": "EL CEIBAL",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-03-29",
+        "Latitud": -26.106626,
+        "Longitud": -63.705146,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.705146,
+          -26.106626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860210501,
+        "Escuela": "860210501 AGRUPAMIENTO Nro. 86063 - ESCUELA Nro.  1143",
+        "Localidad": "TRES VARONES",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-03-30",
+        "Latitud": -26.124072,
+        "Longitud": -63.705479,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.705479,
+          -26.124072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860210500,
+        "Escuela": "860210500 AGRUPAMIENTO 86063 -  SEDE ESC Nro. 806",
+        "Localidad": "SAN JOSE DEL BOQUERON",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-03-30",
+        "Latitud": -26.097018,
+        "Longitud": -63.691442,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.691442,
+          -26.097018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 389004214,
+        "Escuela": "389004214 - ESCUELA SECUNDARIA RURAL N° 2 - LAGUNA DE TESORERO",
+        "Localidad": "LA ALMONA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-03-30",
+        "Latitud": -24.45,
+        "Longitud": -65.6416666667,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.6416666667,
+          -24.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860211200,
+        "Escuela": "860211200 AGRUPAMIENTO Nro. 86019  ESC Nro. 872",
+        "Localidad": "SANTO DOMINGO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-03-31",
+        "Latitud": -26.214786,
+        "Longitud": -63.777225,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.777225,
+          -26.214786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660018000,
+        "Escuela": "660018000 GABRIEL DE GÜEMES MONTERO EX Nro.  515",
+        "Localidad": "SAN BERNARDO DE LAS ZORRAS",
+        "Provincia": "Salta",
+        "Fecha": "2017-04-03",
+        "Latitud": -24.4247507691,
+        "Longitud": -65.8255664762,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8255664762,
+          -24.4247507691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380026500,
+        "Escuela": "380026500 - ESCUELA N 389 PASO DE LOS ANDES",
+        "Localidad": "CATUA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-04-04",
+        "Latitud": -23.87081,
+        "Longitud": -67.004444,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.004444,
+          -23.87081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660054100,
+        "Escuela": "660054100 ESCUELA Nro. 4683 SAN JOSE PROTECTOR DE LA FAMILIA EX Nro. 948",
+        "Localidad": "ESQUINA DE GUARDIA",
+        "Provincia": "Salta",
+        "Fecha": "2017-04-04",
+        "Latitud": -23.817561,
+        "Longitud": -66.234481,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.234481,
+          -23.817561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100081501,
+        "Escuela": "100081501 ESCUELA Nro. 47",
+        "Localidad": "SAN MARTIN",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-04-04",
+        "Latitud": -29.221016,
+        "Longitud": -65.7737,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.7737,
+          -29.221016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100079401,
+        "Escuela": "100079401 ESCUELA Nro.  179",
+        "Localidad": "CHUMBICHA",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-04-05",
+        "Latitud": -28.856382,
+        "Longitud": -66.234466,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.234466,
+          -28.856382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100087100,
+        "Escuela": "100087100 ESCUELA SECUNDARIA RURAL Nro. 9",
+        "Localidad": "SAN MARTIN",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-04-05",
+        "Latitud": -29.221382,
+        "Longitud": -65.775791,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.775791,
+          -29.221382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660018100,
+        "Escuela": "660018100 CRUCERO ARA GENERAL  MANUEL BELGRANO EX Nro.  621",
+        "Localidad": "EL POTRERO",
+        "Provincia": "Salta",
+        "Fecha": "2017-04-05",
+        "Latitud": -24.2765735703,
+        "Longitud": -65.7733841059,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.7733841059,
+          -24.2765735703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660002400,
+        "Escuela": "660002400 ESC. PRIMARIA Nro.  465",
+        "Localidad": "Pucará",
+        "Provincia": "Salta",
+        "Fecha": "2017-04-06",
+        "Latitud": -25.77529,
+        "Longitud": -66.26819,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.26819,
+          -25.77529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380094214,
+        "Escuela": "380094214 389004214 - ESCUELA SECUNDARIA RURAL N 2 - LAGUNA DE TESORERO",
+        "Localidad": "LA ALMONA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-04-06",
+        "Latitud": -24.26844,
+        "Longitud": -65.383306,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.383306,
+          -24.26844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460003700,
+        "Escuela": "460003700 ESC.Nro. 232 BRIGIDA RAMIREZ DE DE LA VEGA",
+        "Localidad": "PTO. DEL VALLE",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-04-06",
+        "Latitud": -29.71734,
+        "Longitud": -65.9595,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.9595,
+          -29.71734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660013400,
+        "Escuela": "660013400 EX COMBATIENTES DE MALVINAS EX Nro.  62",
+        "Localidad": "LAS JUNTAS",
+        "Provincia": "Salta",
+        "Fecha": "2017-04-07",
+        "Latitud": -25.7066325684,
+        "Longitud": -65.5485294449,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.5485294449,
+          -25.7066325684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460003100,
+        "Escuela": "460003100 ESC.Nro. 201 JUAN FRANCISCO CARRIZO",
+        "Localidad": "EL QUEBRACHO",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-04-07",
+        "Latitud": -29.2216,
+        "Longitud": -65.9743,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.9743,
+          -29.2216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460003900,
+        "Escuela": "460003900 ESC.Nro. 314 DR.TOMAS MANUEL DE ANCHORENA",
+        "Localidad": "EL BARREAL",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-04-07",
+        "Latitud": -29.629196,
+        "Longitud": -66.097316,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.097316,
+          -29.629196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380051600,
+        "Escuela": "380051600 ESCUELA N 121 INGENIEROS ARGENTINOS",
+        "Localidad": "DONCELLAS",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-04-11",
+        "Latitud": -22.837807,
+        "Longitud": -66.011043,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.011043,
+          -22.837807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380052700,
+        "Escuela": "380052700 ESCUELA N 187",
+        "Localidad": "RACHAITE",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-04-11",
+        "Latitud": -22.848217,
+        "Longitud": -66.161401,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.161401,
+          -22.848217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380052600,
+        "Escuela": "380052600 ESCUELA N 331",
+        "Localidad": "RUMI CRUZ",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-04-12",
+        "Latitud": -22.78292,
+        "Longitud": -65.535271,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.535271,
+          -22.78292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860070400,
+        "Escuela": "860070400 ESCUELA Nro.  370",
+        "Localidad": "BAJO HONDO",
+        "Provincia": "Santiago del estero",
+        "Fecha": "2017-04-17",
+        "Latitud": -26.596965,
+        "Longitud": -64.4812,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4812,
+          -26.596965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860070800,
+        "Escuela": "860070800 ESCUELA Nro.  976",
+        "Localidad": "LA COSTOSA",
+        "Provincia": "Santiago del estero",
+        "Fecha": "2017-04-18",
+        "Latitud": -26.583296,
+        "Longitud": -64.404784,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.404784,
+          -26.583296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460002900,
+        "Escuela": "460002900 ESC.Nro. 167",
+        "Localidad": "SAN BERNARDO",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-04-18",
+        "Latitud": -29.448779,
+        "Longitud": -66.009619,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.009619,
+          -29.448779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860208904,
+        "Escuela": "860208904 AGRUPAMIENTO Nro. 86077 - ESC Nro.  392",
+        "Localidad": "PAMPA CHARQUINA",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-04-19",
+        "Latitud": -27.08177,
+        "Longitud": -63.16199,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.16199,
+          -27.08177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860208905,
+        "Escuela": "860208905 AGRUPAMIENTO Nro. 86077 - ESC Nro.  938",
+        "Localidad": "EL HOYO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-04-19",
+        "Latitud": -27.018901,
+        "Longitud": -63.231498,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.231498,
+          -27.018901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860083600,
+        "Escuela": "860083600 ESCUELA Nro.  417 CABO MARIO RAMON LUNA",
+        "Localidad": "POZO CASTAÑO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-04-19",
+        "Latitud": -26.862502,
+        "Longitud": -63.231814,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.231814,
+          -26.862502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100004802,
+        "Escuela": "100004802 ESCUELA Nro.  295 GRAL JULIO A.ROCA",
+        "Localidad": "RINCON",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-04-19",
+        "Latitud": -28.221894,
+        "Longitud": -66.143594,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.143594,
+          -28.221894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 140237100,
+        "Escuela": "140237100 ESCUELA JOSE MANUEL ESTRADA",
+        "Localidad": "El Espinillo",
+        "Provincia": "Córdoba",
+        "Fecha": "2017-04-19",
+        "Latitud": -32.308098,
+        "Longitud": -64.669376,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.669376,
+          -32.308098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860071200,
+        "Escuela": "860071200 ESCUELA Nro.  1163",
+        "Localidad": "SAN CRISTOBAL",
+        "Provincia": "Santiago del estero",
+        "Fecha": "2017-04-20",
+        "Latitud": -26.582369,
+        "Longitud": -64.330121,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.330121,
+          -26.582369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460074200,
+        "Escuela": "460074200 ESC.Nro. 358 JUAN JULIO IBAÑEZ",
+        "Localidad": "ESTANCIA SAN JOSE",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-04-20",
+        "Latitud": -29.48503,
+        "Longitud": -66.263978,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.263978,
+          -29.48503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 140237300,
+        "Escuela": "140237300 ESCUELA LEOPOLDO LUGONES",
+        "Localidad": "El Espinillo",
+        "Provincia": "Córdoba",
+        "Fecha": "2017-04-20",
+        "Latitud": -33.02239,
+        "Longitud": -64.347753,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.347753,
+          -33.02239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100000000,
+        "Escuela": "100000000 EDUCAR SOCIEDAD DE ESTADO",
+        "Localidad": "Nu├▒ez",
+        "Provincia": "CABA",
+        "Fecha": "2017-04-20",
+        "Latitud": -34.541858,
+        "Longitud": -58.463644,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.463644,
+          -34.541858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860211204,
+        "Escuela": "860211204 AGRUPAMIENTO Nro. 86019 ESC Nro. 877",
+        "Localidad": "SANTO DOMINGO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-04-21",
+        "Latitud": -26.073212,
+        "Longitud": -63.786298,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.786298,
+          -26.073212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380029400,
+        "Escuela": "380029400 ESCUELA N 334",
+        "Localidad": "PUEBLO VIEJO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-04-24",
+        "Latitud": -22.49441,
+        "Longitud": -65.641852,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.641852,
+          -22.49441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660013800,
+        "Escuela": "660013800 ESC. PRIMARIA Nro.  4264",
+        "Localidad": "La Bomba",
+        "Provincia": "Salta",
+        "Fecha": "2017-04-25",
+        "Latitud": -24.63825,
+        "Longitud": -63.7347,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7347,
+          -24.63825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 140012500,
+        "Escuela": "140012500 ESCUELA LEANDRO ALEM",
+        "Localidad": "Los Vallecitos",
+        "Provincia": "Córdoba",
+        "Fecha": "2017-04-25",
+        "Latitud": -32.360176,
+        "Longitud": -64.85551,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.85551,
+          -32.360176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660013900,
+        "Escuela": "660013900 ESC. PRIMARIA Nro.  461",
+        "Localidad": "Santa Teresa",
+        "Provincia": "Salta",
+        "Fecha": "2017-04-26",
+        "Latitud": -24.63895,
+        "Longitud": -63.64141,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.64141,
+          -24.63895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660131400,
+        "Escuela": "660131400 ESC. PRIMARIA Nro.  4766 DR. MARIO JULIO ELSZTAIN",
+        "Localidad": "LOS TRES POZOS",
+        "Provincia": "Salta",
+        "Fecha": "2017-04-26",
+        "Latitud": -24.717972,
+        "Longitud": -63.044272,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.044272,
+          -24.717972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660093900,
+        "Escuela": "660093900 ESCUELA Nro. 4677 JESUS MISERICORDIOSO EX Nro.  94",
+        "Localidad": "EL LECHERON",
+        "Provincia": "Salta",
+        "Fecha": "2017-04-26",
+        "Latitud": -23.95027,
+        "Longitud": -63.4658,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.4658,
+          -23.95027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 180103600,
+        "Escuela": "180103600 ESCUELA Nro. 768 MARGARITA A. DE IRASTORZA - MERCEDES",
+        "Localidad": "SANTA JUANA",
+        "Provincia": "Corrientes",
+        "Fecha": "2017-04-27",
+        "Latitud": -29.471244,
+        "Longitud": -57.582475,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.582475,
+          -29.471244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660111600,
+        "Escuela": "660111600 SCUELA Nro. 4238 EL TOTORAL EX Nro.  369",
+        "Localidad": "EL TOTORAL",
+        "Provincia": "Salta",
+        "Fecha": "2017-04-27",
+        "Latitud": -23.9390293795,
+        "Longitud": -62.9940048037,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.9940048037,
+          -23.9390293795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380094211,
+        "Escuela": "380094211 - ESCUELA SECUNDARIA RURAL N 2 - LAGUNA DE TESORERO",
+        "Localidad": "TESORERO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-04-28",
+        "Latitud": -23.94798,
+        "Longitud": -65.29834,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.29834,
+          -23.94798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380094213,
+        "Escuela": "380094213 380094213 - ESCUELA SECUNDARIA RURAL N 2 - LAGUNA DE TESORERO",
+        "Localidad": "LAS ESCALERAS",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-04-28",
+        "Latitud": -24.10776,
+        "Longitud": -65.144695,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.144695,
+          -24.10776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 180009800,
+        "Escuela": "180009800 ESCUELA Nro. 466 DON ANGEL MARTINEZ\"\"",
+        "Localidad": "MALVINAS SUR",
+        "Provincia": "Corrientes",
+        "Fecha": "2017-04-28",
+        "Latitud": -29.70225,
+        "Longitud": -59.07643,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.07643,
+          -29.70225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540147800,
+        "Escuela": "540147800 ESCUELA PROVINCIAL Nro.  891",
+        "Localidad": "PARAJE PENINSULA COMANDANTE ANDRESITO",
+        "Provincia": "Misiones",
+        "Fecha": "2017-04-28",
+        "Latitud": -25.537994,
+        "Longitud": -54.141532,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.141532,
+          -25.537994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860214603,
+        "Escuela": "860214603 AGRUPAMIENTO Nro. 86057 ESC Nro. 513",
+        "Localidad": "RANCHILLOS",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-05-03",
+        "Latitud": -25.775181,
+        "Longitud": -63.837121,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.837121,
+          -25.775181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860214605,
+        "Escuela": "860214605 AGRUPAMIENTO Nro. 86057 ESC Nro. 807",
+        "Localidad": "VILLA MATOQUE",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-05-03",
+        "Latitud": -25.831312,
+        "Longitud": -63.79508,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.79508,
+          -25.831312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860211203,
+        "Escuela": "860211203 AGRUPAMIENTO Nro. 86019 ESC Nro. 361",
+        "Localidad": "SANTO DOMINGO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-05-04",
+        "Latitud": -26.70644,
+        "Longitud": -63.566583,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.566583,
+          -26.70644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860211202,
+        "Escuela": "860211202 AGRUPAMIENTO Nro. 86019 ESC Nro. 886",
+        "Localidad": "SANTO DOMINGO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-05-04",
+        "Latitud": -26.145929,
+        "Longitud": -63.764775,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.764775,
+          -26.145929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 180093100,
+        "Escuela": "180093100 ESCUELA Nro. 798 JERONIMO FRANCISCO REZZOAGLI - P. LIBRES",
+        "Localidad": "AYUI",
+        "Provincia": "Corrientes",
+        "Fecha": "2017-05-04",
+        "Latitud": -29.877934,
+        "Longitud": -57.532917,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.532917,
+          -29.877934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860210507,
+        "Escuela": "860210507 AGRUPAMIENTO Nro. 86063 - ESC Nro. 376",
+        "Localidad": "ESTECO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-05-05",
+        "Latitud": -26.274502,
+        "Longitud": -63.738512,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.738512,
+          -26.274502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660009700,
+        "Escuela": "660009700 COLEGIO SECUNDARIO RURAL MEDIADO POR TIC NRO. 5214",
+        "Localidad": "GUALFIN",
+        "Provincia": "Salta",
+        "Fecha": "2017-05-08",
+        "Latitud": -25.75892,
+        "Longitud": -66.40534,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.40534,
+          -25.75892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 580031500,
+        "Escuela": "580031500 ESCUELA PRIMARIA  90 RAÚL DÍAZ",
+        "Localidad": "VILLA PEHUENIA",
+        "Provincia": "Neuquén",
+        "Fecha": "2017-05-09",
+        "Latitud": -38.881217,
+        "Longitud": -71.17111,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17111,
+          -38.881217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220084601,
+        "Escuela": "220084601 E.E.P. Nro. 882 -JUANA AZURDUY-",
+        "Localidad": "FUERTE ESPERANZA",
+        "Provincia": "Chaco",
+        "Fecha": "2017-05-10",
+        "Latitud": -25.203602,
+        "Longitud": -62.274219,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.274219,
+          -25.203602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220031300,
+        "Escuela": "220031300 EEP Nro. 86",
+        "Localidad": "Alta Esperanza",
+        "Provincia": "Chaco",
+        "Fecha": "2017-05-10",
+        "Latitud": -25.203603,
+        "Longitud": -62.27423,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.27423,
+          -25.203603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220084200,
+        "Escuela": "220084200-E.E.P. Nro. 209",
+        "Localidad": "POZO HONDO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-05-10",
+        "Latitud": -25.61562,
+        "Longitud": -63.268122,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.268122,
+          -25.61562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100086601,
+        "Escuela": "100086601-ANEXO Nro. I - SECUNDARIA RURAL Nro. 4 - ESC. Nro.  402",
+        "Localidad": "AGUA CALIENTE",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-05-10",
+        "Latitud": -26.179158,
+        "Longitud": -66.697589,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.697589,
+          -26.179158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100080906,
+        "Escuela": "100080906-ESCUELA Nro.  359 DR. VICENTE LEONIDAS SAADI",
+        "Localidad": "LA MAJADA",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-05-10",
+        "Latitud": -29.049994,
+        "Longitud": -65.550032,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.550032,
+          -29.049994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220187900,
+        "Escuela": "220187900-E.E.P. Nro. 1050 -DON HECTOR EDUARDO MORENO-",
+        "Localidad": "KILÓMETRO 27",
+        "Provincia": "Chaco",
+        "Fecha": "2017-05-10",
+        "Latitud": -25.615623,
+        "Longitud": -63.268125,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.268125,
+          -25.615623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540134900,
+        "Escuela": "540134900 ESCUELA Nro. 856",
+        "Localidad": "SAN VICENTE",
+        "Provincia": "Misiones",
+        "Fecha": "2017-05-10",
+        "Latitud": -27.19105,
+        "Longitud": -54.12234,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.12234,
+          -27.19105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460008800,
+        "Escuela": "460008800 ESC.Nro. 55 JOSE SANTIAGO PIOLI",
+        "Localidad": "LAS CATAS",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-05-11",
+        "Latitud": -29.201698,
+        "Longitud": -66.020433,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.020433,
+          -29.201698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860210510,
+        "Escuela": "860210510 AGRUPAMIENTO Nro. 8663 - ESC Nro.  1147",
+        "Localidad": "VINAL SUNI",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-05-11",
+        "Latitud": -26.052098,
+        "Longitud": -63.669172,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.669172,
+          -26.052098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 180118700,
+        "Escuela": "180118700 ESCUELA Nro. 775 DR.RENE FAVALORO - SANTO TOME",
+        "Localidad": "GOMEZ CUE",
+        "Provincia": "Corrientes",
+        "Fecha": "2017-05-12",
+        "Latitud": -28.3162367774,
+        "Longitud": -56.529127836,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.529127836,
+          -28.3162367774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860146906,
+        "Escuela": "860146906 AGRUPAMIENTO 86031 ESC. Nro.  113",
+        "Localidad": "SAN JOSE",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-05-12",
+        "Latitud": -27.112215,
+        "Longitud": -64.373192,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.373192,
+          -27.112215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860210502,
+        "Escuela": "860210502 AGRUPAMIENTO Nro. 86063 - ESC Nro.  1177",
+        "Localidad": "ISKOY POZO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-05-12",
+        "Latitud": -26.122862,
+        "Longitud": -63.6356,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6356,
+          -26.122862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660024600,
+        "Escuela": "660024600 ESC. PRIMARIA Nro.  4342",
+        "Localidad": "Campo Durán",
+        "Provincia": "Salta",
+        "Fecha": "2017-05-12",
+        "Latitud": -22.201017,
+        "Longitud": -63.669678,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.669678,
+          -22.201017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100013001,
+        "Escuela": "100013001 ESCUELA Nro.  114",
+        "Localidad": "SANTA MARIA",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-05-15",
+        "Latitud": -26.69479,
+        "Longitud": -66.04272,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.04272,
+          -26.69479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660047801,
+        "Escuela": "660047801 AULA ANEXA \"MARIA DEL ROSARIO DE SAN NICOLAS\"",
+        "Localidad": "AGUAS MUERTAS",
+        "Provincia": "Salta",
+        "Fecha": "2017-05-16",
+        "Latitud": -24.205625,
+        "Longitud": -62.68994,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.68994,
+          -24.205625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660053202,
+        "Escuela": "660053202 ESC. Nro.  350 - SAN JOSÉ DE CHASQUIVIL",
+        "Localidad": "SAN MANUEL",
+        "Provincia": "Salta",
+        "Fecha": "2017-05-16",
+        "Latitud": -24.1730507069,
+        "Longitud": -62.9498906324,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.9498906324,
+          -24.1730507069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660049400,
+        "Escuela": "660049400 CABILDO ABIERTO DEL 22 DE MAYO DE 181 EX Nro.  468",
+        "Localidad": "LAS TORTUGAS",
+        "Provincia": "Salta",
+        "Fecha": "2017-05-17",
+        "Latitud": -24.05974,
+        "Longitud": -63.24741,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.24741,
+          -24.05974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660073800,
+        "Escuela": "660073800 SAN PEDRO APOSTOL - EX Nro. 78",
+        "Localidad": "LOS TOLDOS",
+        "Provincia": "Salta",
+        "Fecha": "2017-05-17",
+        "Latitud": -22.2795463993,
+        "Longitud": -64.6990441089,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6990441089,
+          -22.2795463993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660157300,
+        "Escuela": "660157300 COLEGIO SECUNDARIO RURAL MEDIADO POR TIC NRO. 5214",
+        "Localidad": "El Oculto, Las Juntas",
+        "Provincia": "Salta",
+        "Fecha": "2017-05-17",
+        "Latitud": -22.748611,
+        "Longitud": -65.101667,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.101667,
+          -22.748611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220111100,
+        "Escuela": "220111100-E.E.P. Nro. 604 -SANTIAGO AMBROSIO GOMEZ-",
+        "Localidad": "COLONIA LA FLORIDA GRANDE",
+        "Provincia": "Chaco",
+        "Fecha": "2017-05-17",
+        "Latitud": -25.747833,
+        "Longitud": -61.027506,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.027506,
+          -25.747833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100080907,
+        "Escuela": "100080907-ESCUELA Nro.  20 JOSE M.FIGUEROA CACERES",
+        "Localidad": "LA MAJADA",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-05-18",
+        "Latitud": -28.783331,
+        "Longitud": -65.51667,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.51667,
+          -28.783331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220020100,
+        "Escuela": "220020100 E.E.P. Nro.  903",
+        "Localidad": "VILLA RIO BERMEJITO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-05-18",
+        "Latitud": -25.64019,
+        "Longitud": -60.263967,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.263967,
+          -25.64019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380092502,
+        "Escuela": "380092502 - ESCUELA RURAL N 1 - NORMENTA",
+        "Localidad": "NORMENTA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-05-19",
+        "Latitud": -23.86189,
+        "Longitud": -65.091881,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.091881,
+          -23.86189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660048800,
+        "Escuela": "660048800 ESC. Nro.  219",
+        "Localidad": "EL COCAL",
+        "Provincia": "Salta",
+        "Fecha": "2017-05-19",
+        "Latitud": -23.8779763458,
+        "Longitud": -63.1001405169,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1001405169,
+          -23.8779763458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220229500,
+        "Escuela": "220229500-INSTITUTO DE EDUCACION SUPERIOR - CHARADAI",
+        "Localidad": "TACO POZO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-05-19",
+        "Latitud": -27.654624,
+        "Longitud": -59.862359,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.862359,
+          -27.654624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100078906,
+        "Escuela": "100078906 ESCUELA Nro. 288 JUAN DOMINGO PERON",
+        "Localidad": "HUALFIN",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-05-19",
+        "Latitud": -27.225274,
+        "Longitud": -66.833187,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.833187,
+          -27.225274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860208900,
+        "Escuela": "860208900 AGRUPAMIENTO Nro. 86077  SEDE ESC Nro. 937",
+        "Localidad": "LIBERTAD",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-05-22",
+        "Latitud": -26.510884,
+        "Longitud": -62.840337,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.840337,
+          -26.510884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860030300,
+        "Escuela": "860030300 ESCUELA Nro. 668",
+        "Localidad": "OBRAJE MARIA ANGELICA",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-05-22",
+        "Latitud": -26.922962,
+        "Longitud": -63.149713,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.149713,
+          -26.922962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660155300,
+        "Escuela": "660155300 ESCUELA Nro.  477 - MISIÓN LA LOMA",
+        "Localidad": "LA LOMA",
+        "Provincia": "Salta",
+        "Fecha": "2017-05-23",
+        "Latitud": -23.2060699,
+        "Longitud": -63.1802711,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1802711,
+          -23.2060699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380092509,
+        "Escuela": "380092509 - ESCUELA RURAL N 1 - VALLE COLORADO",
+        "Localidad": "VALLE COLORADO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-05-24",
+        "Latitud": -23.41396,
+        "Longitud": -64.934157,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.934157,
+          -23.41396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380092510,
+        "Escuela": "380092510 - ESCUELA RURAL N 1 - PAMPICHUELA",
+        "Localidad": "PAMPICHUELA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-05-24",
+        "Latitud": -23.55437,
+        "Longitud": -65.007586,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.007586,
+          -23.55437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 900028300,
+        "Escuela": "900028300-ESC. Nro. 318 - MARCOS SASTRE",
+        "Localidad": "VILLA ESCABA",
+        "Provincia": "Tucumán",
+        "Fecha": "2017-05-24",
+        "Latitud": -25.596635,
+        "Longitud": -65.604547,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.604547,
+          -25.596635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220099201,
+        "Escuela": "220099201-E.E.S. Nro. 30 - ETANISLAO S. ZEBALLOS (CEP Nro. 30)",
+        "Localidad": "TACO POZO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-05-24",
+        "Latitud": -27.519194,
+        "Longitud": -60.393628,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.393628,
+          -27.519194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 900064300,
+        "Escuela": "900064300-ESC. Nro.  310",
+        "Localidad": "PUERTA ALEGRE",
+        "Provincia": "Tucumán",
+        "Fecha": "2017-05-29",
+        "Latitud": -26.555134,
+        "Longitud": -64.79824,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.79824,
+          -26.555134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100081703,
+        "Escuela": "100081703 ESCUELA Nro. 423 FUNDACION WOLF",
+        "Localidad": "VILLA VIL",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-05-30",
+        "Latitud": -27.093056,
+        "Longitud": -66.821941,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.821941,
+          -27.093056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220051500,
+        "Escuela": "220051500-E.E.P. Nro. 925 -VICENTE NAVARRETE-",
+        "Localidad": "Paraje La sabana",
+        "Provincia": "Chaco",
+        "Fecha": "2017-05-30",
+        "Latitud": -25.159881,
+        "Longitud": -61.844269,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.844269,
+          -25.159881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 900193612,
+        "Escuela": "900193612-ESC. SECUNDARIA GOBERNADOR GARMENDIA C.E.B.A.. Nro.  1-22",
+        "Localidad": "SAN MIGUEL DE TUCUMÚN",
+        "Provincia": "Tucumán",
+        "Fecha": "2017-05-31",
+        "Latitud": -26.455589,
+        "Longitud": -64.709663,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.709663,
+          -26.455589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 900023300,
+        "Escuela": "900023300-ESC. CORONEL MARIANO SALAS",
+        "Localidad": "TARUCA PAMPA",
+        "Provincia": "Tucumán",
+        "Fecha": "2017-05-31",
+        "Latitud": -26.488143,
+        "Longitud": -64.737478,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.737478,
+          -26.488143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220051300,
+        "Escuela": "220051300-E.E.P. Nro. 780 -PADRE SEVERIANO AYASTUY ERRASTI-",
+        "Localidad": "FUERTE ESPERANZA",
+        "Provincia": "Chaco",
+        "Fecha": "2017-05-31",
+        "Latitud": -25.15989,
+        "Longitud": -61.84428,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.84428,
+          -25.15989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380094204,
+        "Escuela": "380094204 - ESCUELA SECUNDARIA RURAL N 2",
+        "Localidad": "VALIAZO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-06-01",
+        "Latitud": -23.18545,
+        "Longitud": -65.274862,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.274862,
+          -23.18545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 180092100,
+        "Escuela": "180092100 ESCUELA Nro. 329 - MERCEDES",
+        "Localidad": "YTA PUA",
+        "Provincia": "Corrientes",
+        "Fecha": "2017-06-01",
+        "Latitud": -29.372192,
+        "Longitud": -57.676352,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.676352,
+          -29.372192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860083601,
+        "Escuela": "860083601-ANEXO ESCUELA Nro.  417 CABO MARIO RAMÓN LUNA",
+        "Localidad": "EL NEGRITO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-06-01",
+        "Latitud": -27.34604,
+        "Longitud": -63.260548,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.260548,
+          -27.34604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220142100,
+        "Escuela": "220142100-E.E.P. Nro.  890",
+        "Localidad": "TACO POZO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-01",
+        "Latitud": -25.615614,
+        "Longitud": -63.26816,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.26816,
+          -25.615614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220105700,
+        "Escuela": "220105700 E.E.P. Nro.  956",
+        "Localidad": "FUERTE ESPERANZA",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-01",
+        "Latitud": -25.159878,
+        "Longitud": -61.844266,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.844266,
+          -25.159878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220031500,
+        "Escuela": "220031500 E.E.P. Nro.  816",
+        "Localidad": "TACO POZO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-02",
+        "Latitud": -25.17425,
+        "Longitud": -62.605889,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.605889,
+          -25.17425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860208906,
+        "Escuela": "860208906 AGRUPAMIENTO Nro. 86077 - ESC Nro.  180",
+        "Localidad": "SANTOS LUGARES",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-06-06",
+        "Latitud": -26.694028,
+        "Longitud": -63.555939,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.555939,
+          -26.694028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660088100,
+        "Escuela": "660088100-ESCUELA Nro.  4117 EX Nro. 197",
+        "Localidad": "CORRALITO (FINCA)",
+        "Provincia": "Salta",
+        "Fecha": "2017-06-06",
+        "Latitud": -22.9150898324,
+        "Longitud": -63.518754302,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.518754302,
+          -22.9150898324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 180118600,
+        "Escuela": "180118600 ESCUELA Nro. 596 MARCOS GALARZA - SANTO TOME",
+        "Localidad": "GALARZA",
+        "Provincia": "Corrientes",
+        "Fecha": "2017-06-07",
+        "Latitud": -28.10097,
+        "Longitud": -56.672663,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.672663,
+          -28.10097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 540185700,
+        "Escuela": "540185700 ESCUELA Nro. 938",
+        "Localidad": "Alecr├¡n/San Pedro",
+        "Provincia": "Misiones",
+        "Fecha": "2017-06-07",
+        "Latitud": -26.482411,
+        "Longitud": -54.136412,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.136412,
+          -26.482411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660109000,
+        "Escuela": "660109000 ESCUELA Nro.  424 EX Nro.  371",
+        "Localidad": "EL PESCADITO",
+        "Provincia": "Salta",
+        "Fecha": "2017-06-07",
+        "Latitud": -22.94614901,
+        "Longitud": -63.28542805,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.28542805,
+          -22.94614901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660093800,
+        "Escuela": "660093800 ESCUELA Nro.  4299 EX  Nro.  466",
+        "Localidad": "PELICANO QUEMADO",
+        "Provincia": "Salta",
+        "Fecha": "2017-06-07",
+        "Latitud": -24.1941,
+        "Longitud": -63.23136,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.23136,
+          -24.1941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660083200,
+        "Escuela": "660083200-CIUDAD DE SALTA EX Nro. 872",
+        "Localidad": "PALO A PIQUE",
+        "Provincia": "Salta",
+        "Fecha": "2017-06-07",
+        "Latitud": -24.24558,
+        "Longitud": -63.39939,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.39939,
+          -24.24558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660093400,
+        "Escuela": "660093400 NUESTRA SEÑORA DEL VALLE EX  Nro.  871",
+        "Localidad": "CIERVO CANSADO",
+        "Provincia": "Salta",
+        "Fecha": "2017-06-07",
+        "Latitud": -24.3966,
+        "Longitud": -62.36164,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.36164,
+          -24.3966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660048700,
+        "Escuela": "660048700 ESCUELA Nro. 4248 EX Nro.  382",
+        "Localidad": "SAN MIGUEL",
+        "Provincia": "Salta",
+        "Fecha": "2017-06-08",
+        "Latitud": -23.9586898163,
+        "Longitud": -63.1439003597,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1439003597,
+          -23.9586898163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660108900,
+        "Escuela": "660108900 ESCUELA Nro.  4163 EX Nro.  258",
+        "Localidad": "EL TRASLADO",
+        "Provincia": "Salta",
+        "Fecha": "2017-06-08",
+        "Latitud": -22.72022973,
+        "Longitud": -63.13280684,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.13280684,
+          -22.72022973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 900032000,
+        "Escuela": "900032000-ESC Nro.  157 - MAESTRO RURAL",
+        "Localidad": "EL CHILCAR",
+        "Provincia": "Tucumán",
+        "Fecha": "2017-06-08",
+        "Latitud": -27.280553,
+        "Longitud": -65.027794,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.027794,
+          -27.280553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660068300,
+        "Escuela": "660068300 ARIEL PETROCELLI EX Nro. 339",
+        "Localidad": "LA BREA",
+        "Provincia": "Salta",
+        "Fecha": "2017-06-09",
+        "Latitud": -23.1153,
+        "Longitud": -62.78466,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.78466,
+          -23.1153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660048300,
+        "Escuela": "660048300 ESCUELA Nro.  4471 EX Nro.  675",
+        "Localidad": "EL MIRADOR",
+        "Provincia": "Salta",
+        "Fecha": "2017-06-09",
+        "Latitud": -24.34162,
+        "Longitud": -62.42687,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.42687,
+          -24.34162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860071800,
+        "Escuela": "860071800 ESCUELA Nro.  337 ESCUELA INFANTIL",
+        "Localidad": "MISTOL PUESTO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-06-12",
+        "Latitud": -26.869961,
+        "Longitud": -63.712326,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.712326,
+          -26.869961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220025000,
+        "Escuela": "220025000 EEP Nro. 924",
+        "Localidad": "General Guemes",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-13",
+        "Latitud": -24.8773,
+        "Longitud": -61.5148,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5148,
+          -24.8773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220058300,
+        "Escuela": "220058300 EEP Nro. 557",
+        "Localidad": "Pozo del Gato",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-13",
+        "Latitud": -24.7716,
+        "Longitud": -61.82265,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.82265,
+          -24.7716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220102701,
+        "Escuela": "220102701 E.E.P. Nro.   24-IRENE NIELLA DE GORDIOLA",
+        "Localidad": "CHARADAI",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-13",
+        "Latitud": -27.654519,
+        "Longitud": -59.861563,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.861563,
+          -27.654519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220019600,
+        "Escuela": "220019600 ESCUELA Nro.  4585 EX Nro.  814",
+        "Localidad": "CHARADAI",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-14",
+        "Latitud": -27.872218,
+        "Longitud": -59.937799,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.937799,
+          -27.872218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220025300,
+        "Escuela": "220025300 EEP Nro. 798",
+        "Localidad": "Fort├¡n Arenales",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-14",
+        "Latitud": -25.076519,
+        "Longitud": -61.251553,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.251553,
+          -25.076519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 900050000,
+        "Escuela": "900050000-ESC. Nro.  61 - DOLORES DEL CARMEN BRITO",
+        "Localidad": "RÍO DEL NÍO",
+        "Provincia": "Tucumán",
+        "Fecha": "2017-06-14",
+        "Latitud": -26.42331,
+        "Longitud": -64.933134,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.933134,
+          -26.42331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220021600,
+        "Escuela": "220021600 EEP Nro. 977",
+        "Localidad": "La Fidelidad",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-14",
+        "Latitud": -25.23779,
+        "Longitud": -61.2837,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2837,
+          -25.23779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220121900,
+        "Escuela": "220121900 ESCUELA Nro. 4238 EL TOTORAL EX Nro.  369",
+        "Localidad": "Paraje El Vizcacheral",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-14",
+        "Latitud": -24.95,
+        "Longitud": -61.333,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.333,
+          -24.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220102900,
+        "Escuela": "220102900 ESCUELA Nro.  4163 EX Nro.  258",
+        "Localidad": "SAMUHU",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-14",
+        "Latitud": -27.542005,
+        "Longitud": -59.955563,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.955563,
+          -27.542005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220052401,
+        "Escuela": "220052401 E.E.P. Nro. 877 GRAL. AGUSTIN PINEDO",
+        "Localidad": "GENERAL PINEDO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-15",
+        "Latitud": -27.039194,
+        "Longitud": -61.712056,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.712056,
+          -27.039194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220019301,
+        "Escuela": "220019301 CABILDO ABIERTO DEL 22 DE MAYO DE 1810 EX Nro.  468",
+        "Localidad": "HUAMONIA",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-16",
+        "Latitud": -27.654626,
+        "Longitud": -59.862361,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.862361,
+          -27.654626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220010501,
+        "Escuela": "220010501 EEP Nro. 22",
+        "Localidad": "Isla Soto",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-16",
+        "Latitud": -26.502847,
+        "Longitud": -61.173126,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.173126,
+          -26.502847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220011100,
+        "Escuela": "220011100 EEP Nro. 797",
+        "Localidad": "PAMPA DEL INFIERNO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-16",
+        "Latitud": -26.502844,
+        "Longitud": -61.173123,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.173123,
+          -26.502844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 900026200,
+        "Escuela": "900026200-ESC. Nro.  131",
+        "Localidad": "LOS MENDOZAS",
+        "Provincia": "Tucumán",
+        "Fecha": "2017-06-16",
+        "Latitud": -27.263026,
+        "Longitud": -65.35788,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.35788,
+          -27.263026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220019300,
+        "Escuela": "220019300 ESCUELA Nro. 4677 JESUS MISERICORDIOSO EX Nro.  940",
+        "Localidad": "PAMPA DEL INFIERNO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-22",
+        "Latitud": -27.654622,
+        "Longitud": -59.862357,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.862357,
+          -27.654622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220061700,
+        "Escuela": "220061700 E.E.P. Nro. 593 DON LETICIO VILLALBA",
+        "Localidad": "TACO POZO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-22",
+        "Latitud": -25.539129,
+        "Longitud": -62.386627,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.386627,
+          -25.539129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220051400,
+        "Escuela": "220051400 EEP Nro. 773",
+        "Localidad": "Campo Grande",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-22",
+        "Latitud": -24.731447,
+        "Longitud": -61.935992,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.935992,
+          -24.731447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220084600,
+        "Escuela": "220084600 EEP N° 882",
+        "Localidad": "TACO POZO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-22",
+        "Latitud": -25.203602,
+        "Longitud": -62.274218,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.274218,
+          -25.203602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860210504,
+        "Escuela": "860210504 AGRUPAMIENTO Nro. 86063 - ESC Nro.  353",
+        "Localidad": "EL PUESTO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-06-23",
+        "Latitud": -26.080501,
+        "Longitud": -63.623747,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.623747,
+          -26.080501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220015403,
+        "Escuela": "220015403-INSTITUTO DE EDUCACION SUPERIOR - DR.RENE G.FAVALORO",
+        "Localidad": "VILLA RIO BERMEJITO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-23",
+        "Latitud": -25.46485,
+        "Longitud": -60.7662,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7662,
+          -25.46485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220129900,
+        "Escuela": "220129900-E.E.P. Nro.  938",
+        "Localidad": "TACO POZO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-23",
+        "Latitud": -25.615611,
+        "Longitud": -63.26813,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.26813,
+          -25.615611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220051503,
+        "Escuela": "220051503 E.E.P. Nro. 925 -VICENTE NAVARRETE-",
+        "Localidad": "FUERTE ESPERANZA",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-23",
+        "Latitud": -24.608632,
+        "Longitud": -62.138062,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.138062,
+          -24.608632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 900003300,
+        "Escuela": "900003300-ESC. Nro.  336",
+        "Localidad": "SALAS",
+        "Provincia": "Tucumán",
+        "Fecha": "2017-06-23",
+        "Latitud": -26.859052,
+        "Longitud": -65.696521,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.696521,
+          -26.859052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220024500,
+        "Escuela": "220024500 EEP Nro. 853",
+        "Localidad": "Tartagal",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-27",
+        "Latitud": -24.2236,
+        "Longitud": -62.14867,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.14867,
+          -24.2236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220203900,
+        "Escuela": "220203900 EEP Nro. 165",
+        "Localidad": "Pozo del Gallo",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-27",
+        "Latitud": -24.345358,
+        "Longitud": -62.264086,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.264086,
+          -24.345358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460033100,
+        "Escuela": "460033100 ESC.Nro. 294 JOSE DARRAGUEIRA",
+        "Localidad": "EL RETAMO",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-06-28",
+        "Latitud": -30.149303,
+        "Longitud": -65.865262,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.865262,
+          -30.149303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220216300,
+        "Escuela": "220216300 EEP Nro. 172",
+        "Localidad": "Fort├¡n Belgrano",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-28",
+        "Latitud": -24.122442,
+        "Longitud": -62.339731,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.339731,
+          -24.122442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860169100,
+        "Escuela": "860169100 ESCUELA Nro. 652",
+        "Localidad": "NO FIGURA EN TABLA",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-06-29",
+        "Latitud": -26.32616,
+        "Longitud": -63.76054,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.76054,
+          -26.32616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220106200,
+        "Escuela": "220106200 EEP N° 826 Paraje el Vizcacheral",
+        "Localidad": "El Vizcacheral",
+        "Provincia": "Chaco",
+        "Fecha": "2017-06-29",
+        "Latitud": -24.443862,
+        "Longitud": -61.812593,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.812593,
+          -24.443862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460028600,
+        "Escuela": "460028600 ESC.Nro. 348",
+        "Localidad": "POZO REDONDO",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-06-29",
+        "Latitud": -30.141148,
+        "Longitud": -65.579027,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.579027,
+          -30.141148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660084300,
+        "Escuela": "660084300 LA ARGENTINA EX Nro. 473",
+        "Localidad": "LA ARGENTINA",
+        "Provincia": "Salta",
+        "Fecha": "2017-06-30",
+        "Latitud": -24.501686,
+        "Longitud": -63.032614,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.032614,
+          -24.501686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 900014700,
+        "Escuela": "900014700-TENIENTE ABANDERADO MANUEL DOMINGO BASAIL",
+        "Localidad": "COCHA MOLLE/LOS COCHAMOLLES",
+        "Provincia": "Tucumán",
+        "Fecha": "2017-06-30",
+        "Latitud": -27.306896,
+        "Longitud": -65.573882,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.573882,
+          -27.306896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460003800,
+        "Escuela": "460003800 ESC.Nro. 35 La Antigua (Dr.P. M. Araoz)",
+        "Localidad": "LA ANTIGUA",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-06-30",
+        "Latitud": -29.806422,
+        "Longitud": -66.097113,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.097113,
+          -29.806422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860064800,
+        "Escuela": "860064800 ESCUELA Nro.  324 SANTIAGO DEL ESTERO",
+        "Localidad": "BUEN LUGAR",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-07-03",
+        "Latitud": -27.145993,
+        "Longitud": -64.377659,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.377659,
+          -27.145993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460037301,
+        "Escuela": "460037301 J.I.N. Nro. 3 EXTENSION 1",
+        "Localidad": "AGUAYO",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-07-03",
+        "Latitud": -31.692226,
+        "Longitud": -65.886039,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.886039,
+          -31.692226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460037303,
+        "Escuela": "460037303 J.I.N. Nro. 3 EXTENSION 3",
+        "Localidad": "SAN SOLANO",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-07-03",
+        "Latitud": -31.481296,
+        "Longitud": -65.92087,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.92087,
+          -31.481296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460037304,
+        "Escuela": "460037304 J.I.N. Nro. 3 EXTENSION 4",
+        "Localidad": "PUESTO DICHOSO",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-07-04",
+        "Latitud": -31.921359,
+        "Longitud": -66.538149,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.538149,
+          -31.921359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460037302,
+        "Escuela": "460037302 J.I.N. N°3 EXTENSION 2",
+        "Localidad": "SAN RAFAEL",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-07-05",
+        "Latitud": -31.825,
+        "Longitud": -66.37971,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.37971,
+          -31.825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380094207,
+        "Escuela": "380094207 - ESCUELA SECUNDARIA RURAL N 2",
+        "Localidad": "VISCARRA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-07-05",
+        "Latitud": -23.15342,
+        "Longitud": -65.547935,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.547935,
+          -23.15342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220011201,
+        "Escuela": "220011201 E.E.P. Nº 234 -DANTE TESTI-",
+        "Localidad": "PAMPA DEL INFIERNO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-07-06",
+        "Latitud": -26.502845,
+        "Longitud": -61.173124,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.173124,
+          -26.502845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380030900,
+        "Escuela": "380030900 ESCUELA N 177",
+        "Localidad": "LA REDONDA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-07-06",
+        "Latitud": -22.52911,
+        "Longitud": -65.522352,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.522352,
+          -22.52911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380031000,
+        "Escuela": "380031000 ESCUELA N 315",
+        "Localidad": "POTRERO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-07-06",
+        "Latitud": -22.6604122253,
+        "Longitud": -65.5427522627,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.5427522627,
+          -22.6604122253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 900002100,
+        "Escuela": "900002100-ESC. Nro.  214 RAMON JULIAN VALVERDI",
+        "Localidad": "Pozo La piedra",
+        "Provincia": "Salta",
+        "Fecha": "2017-07-07",
+        "Latitud": -26.40385,
+        "Longitud": -65.322736,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.322736,
+          -26.40385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 900002400,
+        "Escuela": "900002400-ESC. Nro.  385",
+        "Localidad": "REARTE SUR",
+        "Provincia": "Tucumán",
+        "Fecha": "2017-07-10",
+        "Latitud": -26.136306,
+        "Longitud": -65.501077,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.501077,
+          -26.136306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100078907,
+        "Escuela": "100078907 ESCUELA Nro. 412",
+        "Localidad": "LOS NACIMIENTOS",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-07-13",
+        "Latitud": -27.164595,
+        "Longitud": -66.7351,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7351,
+          -27.164595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660074100,
+        "Escuela": "660074100-GENDARMERIA NACIONAL  CENTINELA DE LA PATRIA  EX Nro. 392",
+        "Localidad": "LA MISION",
+        "Provincia": "Salta",
+        "Fecha": "2017-07-18",
+        "Latitud": -22.220000063,
+        "Longitud": -64.6886159041,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6886159041,
+          -22.220000063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660114200,
+        "Escuela": "660114200-ESCUELA Nro.  4559 EX Nro.  779",
+        "Localidad": "EL CONDADO",
+        "Provincia": "Salta",
+        "Fecha": "2017-07-18",
+        "Latitud": -22.1912193534,
+        "Longitud": -64.6782073095,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6782073095,
+          -22.1912193534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660074200,
+        "Escuela": "660074200-DE LA PATRIA EX Nro. 375",
+        "Localidad": "ARAZAY",
+        "Provincia": "Salta",
+        "Fecha": "2017-07-19",
+        "Latitud": -22.3046346802,
+        "Longitud": -64.7150240879,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7150240879,
+          -22.3046346802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660107200,
+        "Escuela": "660107200 PATRICIAS ARGENTINAS EX Nro.  251",
+        "Localidad": "BARITU",
+        "Provincia": "Salta",
+        "Fecha": "2017-07-20",
+        "Latitud": -22.49883978,
+        "Longitud": -64.76756495,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.76756495,
+          -22.49883978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660048900,
+        "Escuela": "660048900-MARTIN MIGUEL DE GUEMES EX Nro.  825",
+        "Localidad": "LA TOMA",
+        "Provincia": "Salta",
+        "Fecha": "2017-07-26",
+        "Latitud": -23.74742,
+        "Longitud": -63.16394,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.16394,
+          -23.74742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380092900,
+        "Escuela": "380092900 - COLEGIO SUNDARIO N 55",
+        "Localidad": "ORATORIO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-07-26",
+        "Latitud": -22.09937,
+        "Longitud": -66.132816,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.132816,
+          -22.09937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660093200,
+        "Escuela": "660093200-PUERTO ARGENTINO EX Nro.  319",
+        "Localidad": "LA ESPERANZA",
+        "Provincia": "Salta",
+        "Fecha": "2017-07-26",
+        "Latitud": -24.1329085446,
+        "Longitud": -62.6059580843,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6059580843,
+          -24.1329085446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380051200,
+        "Escuela": "380051200 ESCUELA N 56 NUESTRO SEÑOR DEL MILAGRO",
+        "Localidad": "TUSAQUILLA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-07-27",
+        "Latitud": -23.19011,
+        "Longitud": -65.98895,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.98895,
+          -23.19011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380052800,
+        "Escuela": "380052800 ESCUELA N 67",
+        "Localidad": "SANTA ANA DE LA PUNA",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-07-27",
+        "Latitud": -23.124904207,
+        "Longitud": -66.0539503525,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0539503525,
+          -23.124904207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660049200,
+        "Escuela": "660049200 FORTIN ARGENTINO EX Nro.  36",
+        "Localidad": "EL DIVISADERO",
+        "Provincia": "Salta",
+        "Fecha": "2017-07-27",
+        "Latitud": -23.7676605659,
+        "Longitud": -63.0734773652,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0734773652,
+          -23.7676605659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660049100,
+        "Escuela": "660049100-TTE.JOSE LUIS BROWN EX Nro.  322",
+        "Localidad": "TERNERA ATADA",
+        "Provincia": "Salta",
+        "Fecha": "2017-07-27",
+        "Latitud": -24.02763,
+        "Longitud": -63.34894,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.34894,
+          -24.02763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660074700,
+        "Escuela": "660074700 Escuela DAVID BLANCO EX Nro.  788",
+        "Localidad": "POZO DE LA PIEDRA",
+        "Provincia": "Salta",
+        "Fecha": "2017-07-28",
+        "Latitud": -23.5221666667,
+        "Longitud": -66.8816666667,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8816666667,
+          -23.5221666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380075400,
+        "Escuela": "380075400 - COLEGIO DE NIVEL SECUNDARIO N 10",
+        "Localidad": "CONDOR",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-08-02",
+        "Latitud": -22.38641,
+        "Longitud": -65.339353,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.339353,
+          -22.38641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860210503,
+        "Escuela": "860210503 AGRUPAMIENTO Nro. 86063 - ESC Nro.  380",
+        "Localidad": "PIRUAJ BAJO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-08-02",
+        "Latitud": -26.174648,
+        "Longitud": -63.628651,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.628651,
+          -26.174648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860210508,
+        "Escuela": "860210508 AGRUPAMIENTO Nro. 86063 - ESC Nro. 357",
+        "Localidad": "MANGA BAJADA",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-08-03",
+        "Latitud": -25.899197,
+        "Longitud": -63.716522,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.716522,
+          -25.899197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380094203,
+        "Escuela": "380094203 - ESCUELA SECUNDARIA RURAL N 2",
+        "Localidad": "PALCA DE APARZO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-08-03",
+        "Latitud": -23.12266,
+        "Longitud": -65.134733,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.134733,
+          -23.12266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380056000,
+        "Escuela": "380056000 ESCUELA N 439",
+        "Localidad": "SAUZALITO",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-08-08",
+        "Latitud": -23.33091,
+        "Longitud": -66.132149,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.132149,
+          -23.33091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660157500,
+        "Escuela": "660157500 COLEGIO SECUNDARIO RURAL MEDIADO POR TIC NRO. 5216",
+        "Localidad": "SAN PATRICIO",
+        "Provincia": "Salta",
+        "Fecha": "2017-08-09",
+        "Latitud": -24.1836605,
+        "Longitud": -62.8829918,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8829918,
+          -24.1836605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660157200,
+        "Escuela": "660157200 COLEGIO SECUNDARIO RURAL MEDIADO POR TIC NRO. 5213",
+        "Localidad": "POZO LARGO",
+        "Provincia": "Salta",
+        "Fecha": "2017-08-10",
+        "Latitud": -25.9188925987,
+        "Longitud": -65.4866601095,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.4866601095,
+          -25.9188925987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460038500,
+        "Escuela": "460038500 ESCUELA DEL DIVISADERO (NRO. 213)",
+        "Localidad": "EL DIVISADERO",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-08-11",
+        "Latitud": -31.72655,
+        "Longitud": -66.7576,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7576,
+          -31.72655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860069700,
+        "Escuela": "860069700 ESCUELA Nro.  94",
+        "Localidad": "LOS TUNALES",
+        "Provincia": "Santiago del estero",
+        "Fecha": "2017-08-14",
+        "Latitud": -27.092951,
+        "Longitud": -64.545495,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.545495,
+          -27.092951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460027000,
+        "Escuela": "460027000 ESC.Nro. 312 DR.JOSE E.COLOMBRES",
+        "Localidad": "LA RESISTENCIA",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-08-14",
+        "Latitud": -30.229168,
+        "Longitud": -65.606407,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.606407,
+          -30.229168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 220062700,
+        "Escuela": "220062700 E.E.P. Nro. 614 SAN FRANCISCO DE ASIS",
+        "Localidad": "TACO POZO",
+        "Provincia": "Chaco",
+        "Fecha": "2017-08-15",
+        "Latitud": -25.139046,
+        "Longitud": -62.935732,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.935732,
+          -25.139046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100028600,
+        "Escuela": "100028600 ESCUELA SECUNDARIA Nro. 66",
+        "Localidad": "PALO BLANCO",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-16",
+        "Latitud": -27.336858,
+        "Longitud": -67.759498,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.759498,
+          -27.336858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100027000,
+        "Escuela": "100027000 ESCUELA Nro.  406 MUNICIPALIDAD DE LA CIUDAD DE BUENOS AIRES",
+        "Localidad": "PALO BLANCO",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-16",
+        "Latitud": -27.336896,
+        "Longitud": -67.759155,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.759155,
+          -27.336896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100082103,
+        "Escuela": "100082103-ESCUELA Nro. 306",
+        "Localidad": "MESADA DE ZARATE",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-16",
+        "Latitud": -27.113413,
+        "Longitud": -67.680358,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.680358,
+          -27.113413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100082104,
+        "Escuela": "100082104-ESCUELA Nro. 406 MUNICIPALIDAD DE LA CIUDAD DE BUENOS AIRES",
+        "Localidad": "PALO BLANCO",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-16",
+        "Latitud": -27.336899,
+        "Longitud": -67.759158,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.759158,
+          -27.336899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100082106,
+        "Escuela": "100082106-ESCUELA Nro. 476",
+        "Localidad": "ANTINACO",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-16",
+        "Latitud": -27.21413,
+        "Longitud": -67.606136,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.606136,
+          -27.21413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 460054000,
+        "Escuela": "460054000 ESCUELA SECUNDARIA DE PAGANCILLO",
+        "Localidad": "PAGANCILLO",
+        "Provincia": "La Rioja",
+        "Fecha": "2017-08-17",
+        "Latitud": -29.541729,
+        "Longitud": -68.099832,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.099832,
+          -29.541729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100078802,
+        "Escuela": "100078802 ESCUELA Nro.  104",
+        "Localidad": "PAMPA BLANCA",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-17",
+        "Latitud": -27.113653,
+        "Longitud": -67.680295,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.680295,
+          -27.113653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100078806,
+        "Escuela": "100078806 ESCUELA Nro. 93 DR.RICARDO BALBIN",
+        "Localidad": "MEDANITOS",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-17",
+        "Latitud": -27.526328,
+        "Longitud": -67.590938,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.590938,
+          -27.526328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100078903,
+        "Escuela": "100078903 ESCUELA Nro. 68 JOSE OLMOS DE AGUILERA",
+        "Localidad": "EL DURAZNO",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-17",
+        "Latitud": -27.09266,
+        "Longitud": -66.823306,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.823306,
+          -27.09266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100078901,
+        "Escuela": "100078901-ESCUELA Nro. 350",
+        "Localidad": "PUERTA DE CORRAL QUEMADO",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-18",
+        "Latitud": -27.2275,
+        "Longitud": -66.9329,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9329,
+          -27.2275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860211201,
+        "Escuela": "860211201 AGRUPAMIENTO Nro. 86019 ESC Nro. 805",
+        "Localidad": "SANTO DOMINGO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-08-23",
+        "Latitud": -26.009037,
+        "Longitud": -63.732887,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.732887,
+          -26.009037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860055500,
+        "Escuela": "860055500 ESCUELA Nro.382 SANTA ROSA DE LIMA",
+        "Localidad": "SANTA ROSA",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-08-23",
+        "Latitud": -25.976038,
+        "Longitud": -63.616526,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.616526,
+          -25.976038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860056700,
+        "Escuela": "860056700 ESCUELA Nro.353",
+        "Localidad": "EL PUESTO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-08-23",
+        "Latitud": -26.03981,
+        "Longitud": -63.61539,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.61539,
+          -26.03981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 660157400,
+        "Escuela": "660157400 COLEGIO SECUNDARIO RURAL MEDIADO POR TIC NRO. 5215",
+        "Localidad": "Pozo El Toro",
+        "Provincia": "Salta",
+        "Fecha": "2017-08-24",
+        "Latitud": -25.2333298,
+        "Longitud": -66.4499969,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4499969,
+          -25.2333298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100081704,
+        "Escuela": "100081704 ESCUELA Nro. 454",
+        "Localidad": "BARRANCA LARGA",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-24",
+        "Latitud": -27.0183,
+        "Longitud": -66.66805,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.66805,
+          -27.0183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860210505,
+        "Escuela": "860210505 AGRUPAMIENTO Nro. 86063 - ESC Nro. 344",
+        "Localidad": "CABEZA DEL TORO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-08-25",
+        "Latitud": -26.165865,
+        "Longitud": -63.632311,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.632311,
+          -26.165865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100081707,
+        "Escuela": "100081707-ESCUELA Nro. 425",
+        "Localidad": "PAPA CHACRA",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-29",
+        "Latitud": -27.2279,
+        "Longitud": -66.9332,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9332,
+          -27.2279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100081708,
+        "Escuela": "100081708-ESCUELA Nro.  116 NICOLAS RAMOS",
+        "Localidad": "LAGUNA BLANCA",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-29",
+        "Latitud": -26.590047,
+        "Longitud": -66.930709,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.930709,
+          -26.590047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100069109,
+        "Escuela": "100069109 ESCUELA Nro.  442",
+        "Localidad": "AGUA AMARILLA",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-30",
+        "Latitud": -26.794541,
+        "Longitud": -66.483507,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.483507,
+          -26.794541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100081701,
+        "Escuela": "100081701 ESCUELA Nro. 142 POLICIA FEDERAL ARGENTINA",
+        "Localidad": "EL PEÑON",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-30",
+        "Latitud": -26.471384,
+        "Longitud": -67.264224,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.264224,
+          -26.471384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 100081706,
+        "Escuela": "100081706-ESCUELA Nro. 494 CAMARA DE DIPUTADOS",
+        "Localidad": "ANTOFAGASTA DE LA SIERRA",
+        "Provincia": "Catamarca",
+        "Fecha": "2017-08-30",
+        "Latitud": -26.065969,
+        "Longitud": -67.395015,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.395015,
+          -26.065969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860214600,
+        "Escuela": "860214600 AGRUPAMIENTO Nro. 86057 CON SEDE ESC Nro. 602",
+        "Localidad": "LA CANDELARIA",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-09-01",
+        "Latitud": -25.886761,
+        "Longitud": -63.781425,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.781425,
+          -25.886761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 380090300,
+        "Escuela": "380090300 - COLEGIO SECUNDARIO N 51",
+        "Localidad": "COLORADOS",
+        "Provincia": "Jujuy",
+        "Fecha": "2017-09-06",
+        "Latitud": -23.5715,
+        "Longitud": -65.697439,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.697439,
+          -23.5715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860214601,
+        "Escuela": "860214601 AGRUPAMIENTO Nro. 86057 ESC Nro. 1174",
+        "Localidad": "CORRAL QUEMADO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-09-06",
+        "Latitud": -25.90554,
+        "Longitud": -63.708342,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.708342,
+          -25.90554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 860214604,
+        "Escuela": "860214604 AGRUPAMIENTO Nro. 86057 ESC Nro. 710",
+        "Localidad": "TORO POZO",
+        "Provincia": "Santiago del Estero",
+        "Fecha": "2017-09-06",
+        "Latitud": -25.819715,
+        "Longitud": -63.723943,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.723943,
+          -25.819715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 900010600,
+        "Escuela": "900010600-ESC. Nro.  222",
+        "Localidad": "EL NOGALITO",
+        "Provincia": "Tucumán",
+        "Fecha": "2017-09-12",
+        "Latitud": -26.794004,
+        "Longitud": -65.468503,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.468503,
+          -26.794004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CUE": 900066300,
+        "Escuela": "900066300-ESC. Nro.  216",
+        "Localidad": "RODEO GRANDE",
+        "Provincia": "Tucumán",
+        "Fecha": "2017-09-13",
+        "Latitud": -26.237276,
+        "Longitud": -65.284848,
+        "Status": "Completada",
+        "Servicios": "Internet Satelital + TV Digital Satelital + EduTac",
+        "SI": "SI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.284848,
+          -26.237276
+        ]
+      }
+    }
+  ]
+}
