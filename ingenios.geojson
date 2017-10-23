@@ -59,6 +59,36 @@
           -27.379694027633434
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Ciudad": "Bella Vista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.30438661575317,
+          -27.025164196356325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ciudad": "Cruz Alta",
+        "Nombre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.10280251502991,
+          -26.887952123619982
+        ]
+      }
     }
   ]
 }
