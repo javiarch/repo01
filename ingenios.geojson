@@ -50,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "Ciudad": "Alto Verde",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "Nombre": ""
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +67,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Ciudad": "Bella Vista"
+        "Ciudad": "Bella Vista",
+        "Nombre": "Ingenio Bella Vista"
       },
       "geometry": {
         "type": "Point",
@@ -83,13 +85,55 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "Ciudad": "Cruz Alta",
-        "Nombre": "Compañía Azucarera Los Balcanes S.A."
+        "Nombre": "Ingenio Cruz Alta"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -65.10280251502991,
           -26.887952123619982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ciudad": "Famaillá",
+        "Nombre": "Ingenio La Fronterita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.45511603355408,
+          -27.033602995319097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ciudad": "Río Seco",
+        "Nombre": "Ingenio La Providencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.56546211242676,
+          -27.265177798281474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ciudad": "La Trinidad",
+        "Nombre": "Ingenio La Trinidad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.52020788192749,
+          -27.41289055196491
         ]
       }
     }
