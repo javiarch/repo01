@@ -136,6 +136,34 @@
           -27.41289055196491
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ciudad": "Monteros",
+        "Nombre": "Ingenio Ñuñorko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.49978017807007,
+          -27.173796663495434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ciudad": "Juan B. Alberdi",
+        "Nombre": "Ingenio Marapa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.61450362205505,
+          -27.591579893205143
+        ]
+      }
     }
   ]
 }
