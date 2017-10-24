@@ -79,8 +79,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Ciudad": "Cruz Alta",
-        "Nombre": ""
+        "Nombre": "Compañía Azucarera Los Balcanes S.A."
       },
       "geometry": {
         "type": "Point",
