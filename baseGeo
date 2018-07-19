@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Jurisdiccion": "Municipio",
+        "Nombre": "La Plata",
+        "con_SIG": "?",
+        "mail_Contacto": "?",
+        "pagina web": "?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9528272151947,
+          -34.920114864951856
+        ]
+      }
+    }
+  ]
+}
