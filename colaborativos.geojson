@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "La Aguilarense"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.186737298965454,
+          -34.87429548326688
+        ]
+      }
+    }
+  ]
+}
