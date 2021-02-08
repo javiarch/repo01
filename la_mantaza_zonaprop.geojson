@@ -1,0 +1,3881 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.556958399999985,
+          -34.6409504
+        ]
+      },
+      "properties": {
+        "postingId": "46732109",
+        "parentId": 1,
+        "title": "LOTE TERRENO IDEAL CONST EDIFICIO EN ZONA RESIDENCIAL A METROS AV.  RIVADAVIA",
+        "price": {
+          "lowPricePercentage": 0,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": 0,
+              "currency": "USD",
+              "amount": 450000,
+              "formattedAmount": "USD 450K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.556958399999985,
+            "latitude": -34.6409504
+          },
+          "visibility": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5674893,
+          -34.639295
+        ]
+      },
+      "properties": {
+        "postingId": "46917228",
+        "parentId": 2,
+        "title": "Lote . | ALVAREZ JONTE al 200",
+        "price": {
+          "lowPricePercentage": 0,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": 0,
+              "currency": "USD",
+              "amount": 630000,
+              "formattedAmount": "USD 630K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5674893,
+            "latitude": -34.639295
+          },
+          "visibility": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.556958399999985,
+          -34.6409504
+        ]
+      },
+      "properties": {
+        "postingId": 46732109,
+        "parentId": null,
+        "title": "LOTE TERRENO IDEAL CONST EDIFICIO EN ZONA RESIDENCIAL A METROS AV.  RIVADAVIA",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 450000,
+              "formattedAmount": "USD 450K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.556958399999985,
+            "latitude": -34.6409504
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5674893,
+          -34.639295
+        ]
+      },
+      "properties": {
+        "postingId": 46917228,
+        "parentId": null,
+        "title": "Lote . | ALVAREZ JONTE al 200",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 630000,
+              "formattedAmount": "USD 630K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5674893,
+            "latitude": -34.639295
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5514380149,
+          -34.6704895378
+        ]
+      },
+      "properties": {
+        "postingId": 46662138,
+        "parentId": null,
+        "title": "Lencke vende - Excelente fraccion en el centro de San Justo, apta multiples destinos",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 6000000,
+              "formattedAmount": "USD 6M"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5514380149,
+            "latitude": -34.6704895378
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.556680400000005,
+          -34.639454
+        ]
+      },
+      "properties": {
+        "postingId": 46494128,
+        "parentId": null,
+        "title": "Venta - Ramos Mejia - Ardoino G. Dr.  324-334",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 2300000,
+              "formattedAmount": "USD 2.3M"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.556680400000005,
+            "latitude": -34.639454
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5497753,
+          -34.6706801
+        ]
+      },
+      "properties": {
+        "postingId": 43397723,
+        "parentId": null,
+        "title": "Venta - Brandsen Cnel. 3111",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 6000000,
+              "formattedAmount": "USD 6M"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5497753,
+            "latitude": -34.6706801
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6705026,
+          -34.8685443
+        ]
+      },
+      "properties": {
+        "postingId": 47197650,
+        "parentId": null,
+        "title": "Terreno en venta en Parque Industrial Virrey del Pino",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 240000,
+              "formattedAmount": "USD 240K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.6705026,
+            "latitude": -34.8685443
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5699379,
+          -34.6409462
+        ]
+      },
+      "properties": {
+        "postingId": 47222416,
+        "parentId": null,
+        "title": "Terreno - Ramos Mejia Norte",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 580000,
+              "formattedAmount": "USD 580K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5699379,
+            "latitude": -34.6409462
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.49029,
+          -34.706291
+        ]
+      },
+      "properties": {
+        "postingId": 45174215,
+        "parentId": null,
+        "title": "Importante Manzana (sin loteo) en Villa Celina",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 290000,
+              "formattedAmount": "USD 290K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.49029,
+            "latitude": -34.706291
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.50304189999997,
+          -34.6876074
+        ]
+      },
+      "properties": {
+        "postingId": 45101938,
+        "parentId": null,
+        "title": "VENTA TERRENO 8,66 X 43 IDEAL CONSTRUCTOR !! , CIUDAD MADERO. ",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 135000,
+              "formattedAmount": "USD 135K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.50304189999997,
+            "latitude": -34.6876074
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.562097,
+          -34.6823228
+        ]
+      },
+      "properties": {
+        "postingId": 46565986,
+        "parentId": null,
+        "title": "Lote en Venta en San Justo",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 1299000,
+              "formattedAmount": "USD 1.2M"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.562097,
+            "latitude": -34.6823228
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.55318,
+          -34.6551
+        ]
+      },
+      "properties": {
+        "postingId": 46745384,
+        "parentId": null,
+        "title": "PH CON BALCON FRANCES AL FRENTE 4 AMBIENTES",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 90000,
+              "formattedAmount": "USD 90K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.55318,
+            "latitude": -34.6551
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6107482,
+          -34.67772040000001
+        ]
+      },
+      "properties": {
+        "postingId": 46814515,
+        "parentId": null,
+        "title": "Lote con propiedad a reciclar",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 65000,
+              "formattedAmount": "USD 65K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.6107482,
+            "latitude": -34.67772040000001
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.55554360000001,
+          -34.6642795
+        ]
+      },
+      "properties": {
+        "postingId": 46954404,
+        "parentId": null,
+        "title": "NUEVO PRECIO - LOTE EN ESQUINA - 8.66 X 17 APROX - 148 M2 TOTALES –",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 110000,
+              "formattedAmount": "USD 110K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.55554360000001,
+            "latitude": -34.6642795
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5607438,
+          -34.6746446
+        ]
+      },
+      "properties": {
+        "postingId": 46810941,
+        "parentId": null,
+        "title": "VENTA URGENTE",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 179000,
+              "formattedAmount": "USD 179K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5607438,
+            "latitude": -34.6746446
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.507669,
+          -34.692192
+        ]
+      },
+      "properties": {
+        "postingId": 45542853,
+        "parentId": null,
+        "title": "VENTA TERRENO 8,66 x 60 - VILLA MADERO",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 140000,
+              "formattedAmount": "USD 140K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.507669,
+            "latitude": -34.692192
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5123461,
+          -34.6986228
+        ]
+      },
+      "properties": {
+        "postingId": 47328453,
+        "parentId": null,
+        "title": "Tapiales - Humahuaca 343 - Excelente lote de 660m2 (10 x 66) APTO EMPRENDIMIENTO",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 490000,
+              "formattedAmount": "USD 490K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5123461,
+            "latitude": -34.6986228
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.65575409,
+          -34.8501091
+        ]
+      },
+      "properties": {
+        "postingId": 43769211,
+        "parentId": null,
+        "title": "LOTE DE 7700 MTS² SOBRE COLECTORA DE RUTA 3, APTO INDUSTRIA",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 490000,
+              "formattedAmount": "USD 490K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.65575409,
+            "latitude": -34.8501091
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6966437,
+          -34.9038174
+        ]
+      },
+      "properties": {
+        "postingId": 46951605,
+        "parentId": null,
+        "title": "Terreno - Virrey Del Pino",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 47000,
+              "formattedAmount": "USD 47K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.6966437,
+            "latitude": -34.9038174
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.553968,
+          -34.662799
+        ]
+      },
+      "properties": {
+        "postingId": 47114836,
+        "parentId": null,
+        "title": "Venta Lote Inversión Ramos Mejía Don Bosco",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 180000,
+              "formattedAmount": "USD 180K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.553968,
+            "latitude": -34.662799
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5134002446,
+          -34.6734311604
+        ]
+      },
+      "properties": {
+        "postingId": 46386666,
+        "parentId": null,
+        "title": "OPORTUNIDAD - LOTE PROPIO - MEDIDAS 10x31- EXCELENTE UBICACION",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 120000,
+              "formattedAmount": "USD 120K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5134002446,
+            "latitude": -34.6734311604
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.55636479999998,
+          -34.6765231
+        ]
+      },
+      "properties": {
+        "postingId": 43615911,
+        "parentId": null,
+        "title": "LOTE EN VENTA SAN JUSTO",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 240000,
+              "formattedAmount": "USD 240K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.55636479999998,
+            "latitude": -34.6765231
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.55637429999999,
+          -34.6828219
+        ]
+      },
+      "properties": {
+        "postingId": 46458538,
+        "parentId": null,
+        "title": "EXCELENTE LOTE. IDEAL CONSTRUCTOR.",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 1,
+              "formattedAmount": "USD 1"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.55637429999999,
+            "latitude": -34.6828219
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.50496292,
+          -34.70032501
+        ]
+      },
+      "properties": {
+        "postingId": 47016120,
+        "parentId": null,
+        "title": "Terreno en venta en Luis Guanella y Humaitá",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 1,
+              "formattedAmount": "USD 1"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.50496292,
+            "latitude": -34.70032501
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5333345,
+          -34.6878274
+        ]
+      },
+      "properties": {
+        "postingId": 46633589,
+        "parentId": null,
+        "title": "TERRENO IDEAL PARA GALPÓN, EN ZONA MIXTA INDUSTRIAL ( SE ESCUCHAN OFERTAS) ",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 85000,
+              "formattedAmount": "USD 85K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5333345,
+            "latitude": -34.6878274
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.557833,
+          -34.636789
+        ]
+      },
+      "properties": {
+        "postingId": 46690567,
+        "parentId": null,
+        "title": "Terreno Lote  en Venta Ramos Mejía La Matanza",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 990000,
+              "formattedAmount": "USD 990K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.557833,
+            "latitude": -34.636789
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.57036790000001,
+          -34.6509389
+        ]
+      },
+      "properties": {
+        "postingId": 46873848,
+        "parentId": null,
+        "title": "CASA 5 AMBIENTES | IANNONE 750",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 300000,
+              "formattedAmount": "USD 300K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.57036790000001,
+            "latitude": -34.6509389
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.516878,
+          -34.6637033
+        ]
+      },
+      "properties": {
+        "postingId": 46661034,
+        "parentId": null,
+        "title": "Terreno Lote  en Venta ubicado en Lomas del Mirador, La Matanza",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 100000,
+              "formattedAmount": "USD 100K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.516878,
+            "latitude": -34.6637033
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5519222,
+          -34.6455694
+        ]
+      },
+      "properties": {
+        "postingId": 47214503,
+        "parentId": null,
+        "title": "Terreno - Ramos Mejia Sur",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 220000,
+              "formattedAmount": "USD 220K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5519222,
+            "latitude": -34.6455694
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6692444187,
+          -34.869016132
+        ]
+      },
+      "properties": {
+        "postingId": 46238767,
+        "parentId": null,
+        "title": "Terrenos Parque industrial La Matanza",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 253950,
+              "formattedAmount": "USD 253K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.6692444187,
+            "latitude": -34.869016132
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.556259100000034,
+          -34.6799748
+        ]
+      },
+      "properties": {
+        "postingId": 47197601,
+        "parentId": null,
+        "title": "Casa en venta sobre terreno con potencial de construcción",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 500000,
+              "formattedAmount": "USD 500K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.556259100000034,
+            "latitude": -34.6799748
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5625626,
+          -34.6439986
+        ]
+      },
+      "properties": {
+        "postingId": 46660718,
+        "parentId": null,
+        "title": "Terreno Lote  en Venta ubicado en Ramos Mejía, La Matanza",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 1200000,
+              "formattedAmount": "USD 1.2M"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5625626,
+            "latitude": -34.6439986
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6692623,
+          -34.8691335
+        ]
+      },
+      "properties": {
+        "postingId": 46237833,
+        "parentId": null,
+        "title": "Parque industrial Matanza - Virrey del Pino RN°3 km 41",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 235000,
+              "formattedAmount": "USD 235K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.6692623,
+            "latitude": -34.8691335
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.574219,
+          -34.699086
+        ]
+      },
+      "properties": {
+        "postingId": 46621968,
+        "parentId": null,
+        "title": "Venta Terreno San Justo. Gran oportunidad",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 49900,
+              "formattedAmount": "USD 49K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.574219,
+            "latitude": -34.699086
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.588114,
+          -34.735018
+        ]
+      },
+      "properties": {
+        "postingId": 47009265,
+        "parentId": null,
+        "title": "VENTA Lote Terreno 408 mts. TOTALES!!",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 55000,
+              "formattedAmount": "USD 55K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.588114,
+            "latitude": -34.735018
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5519222,
+          -34.6455694
+        ]
+      },
+      "properties": {
+        "postingId": 47214495,
+        "parentId": null,
+        "title": "Terreno - Ramos Mejia Sur",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 220000,
+              "formattedAmount": "USD 220K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5519222,
+            "latitude": -34.6455694
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5502348,
+          -34.644093
+        ]
+      },
+      "properties": {
+        "postingId": 46873809,
+        "parentId": null,
+        "title": "PH en Venta, Ramos Mejia",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 68000,
+              "formattedAmount": "USD 68K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5502348,
+            "latitude": -34.644093
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.556259100000034,
+          -34.6799748
+        ]
+      },
+      "properties": {
+        "postingId": 47197661,
+        "parentId": null,
+        "title": "Casa en venta sobre terreno con potencial de construcción",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 500000,
+              "formattedAmount": "USD 500K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.556259100000034,
+            "latitude": -34.6799748
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.553335000000004,
+          -34.6659004
+        ]
+      },
+      "properties": {
+        "postingId": 46873565,
+        "parentId": null,
+        "title": "VENTA DE LOTE, RAMOS MEJIA",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 185000,
+              "formattedAmount": "USD 185K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.553335000000004,
+            "latitude": -34.6659004
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6692623,
+          -34.8691335
+        ]
+      },
+      "properties": {
+        "postingId": 46238526,
+        "parentId": null,
+        "title": "Terrenos Parque industrial La Matanza",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 762000,
+              "formattedAmount": "USD 762K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.6692623,
+            "latitude": -34.8691335
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5552441,
+          -34.6767768
+        ]
+      },
+      "properties": {
+        "postingId": 47015665,
+        "parentId": null,
+        "title": "Venta Terreno lote 535 m2 San Justo",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 350000,
+              "formattedAmount": "USD 350K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5552441,
+            "latitude": -34.6767768
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5807724,
+          -34.67301559
+        ]
+      },
+      "properties": {
+        "postingId": 44464793,
+        "parentId": null,
+        "title": "LOTE CON MEJORAS (CASA ANTIGUA) REGULAR ESTADO",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 98000,
+              "formattedAmount": "USD 98K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5807724,
+            "latitude": -34.67301559
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.559411899999986,
+          -34.6499771
+        ]
+      },
+      "properties": {
+        "postingId": 46579377,
+        "parentId": null,
+        "title": "Lote en Venta en Ramos Mejia Sur",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 250000,
+              "formattedAmount": "USD 250K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.559411899999986,
+            "latitude": -34.6499771
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5709353,
+          -34.6517773
+        ]
+      },
+      "properties": {
+        "postingId": 45539520,
+        "parentId": null,
+        "title": "DOBLE LOTE RAMOS MEJIA 8.66 X 53 - 8.66 X 35",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 430000,
+              "formattedAmount": "USD 430K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5709353,
+            "latitude": -34.6517773
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.55953890000001,
+          -34.6424486
+        ]
+      },
+      "properties": {
+        "postingId": 44137713,
+        "parentId": null,
+        "title": "LOTE CENTRICO IDEAL CONSTRUCTOR // SARMIENTO 200 ",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 400000,
+              "formattedAmount": "USD 400K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.55953890000001,
+            "latitude": -34.6424486
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.71982097625765,
+          -34.76881319144287
+        ]
+      },
+      "properties": {
+        "postingId": 45390356,
+        "parentId": null,
+        "title": "Terreno en Venta en 20 de Junio",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 85000,
+              "formattedAmount": "USD 85K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.71982097625765,
+            "latitude": -34.76881319144287
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.579280448410046,
+          -34.67933061480832
+        ]
+      },
+      "properties": {
+        "postingId": 43527723,
+        "parentId": null,
+        "title": "Venta de Lote, San Justo.",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 125000,
+              "formattedAmount": "USD 125K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.579280448410046,
+            "latitude": -34.67933061480832
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.55329589999999,
+          -34.6442486
+        ]
+      },
+      "properties": {
+        "postingId": 47111229,
+        "parentId": null,
+        "title": "Lote 8.66 x 30 - Venta - Ramos Mejía",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 160000,
+              "formattedAmount": "USD 160K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.55329589999999,
+            "latitude": -34.6442486
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.56896393777063,
+          -34.63849230866118
+        ]
+      },
+      "properties": {
+        "postingId": 47087495,
+        "parentId": null,
+        "title": "Terreno en Venta en Ramos Mejia Norte",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 1100000,
+              "formattedAmount": "USD 1.1M"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.56896393777063,
+            "latitude": -34.63849230866118
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5732246,
+          -34.6838332
+        ]
+      },
+      "properties": {
+        "postingId": 46236571,
+        "parentId": null,
+        "title": "OPORTUNIDAD IMPERDIBLE: VENTA URGENTE!!! LOTE CON DOS LOCALES Y LOSA EN 1° PISO",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 100000,
+              "formattedAmount": "USD 100K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5732246,
+            "latitude": -34.6838332
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.56179646585389,
+          -34.64299052879621
+        ]
+      },
+      "properties": {
+        "postingId": 46579483,
+        "parentId": null,
+        "title": "Lote en Venta en Ramos Mejia",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 750000,
+              "formattedAmount": "USD 750K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.56179646585389,
+            "latitude": -34.64299052879621
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.56383729999999,
+          -34.6395113
+        ]
+      },
+      "properties": {
+        "postingId": 44629677,
+        "parentId": null,
+        "title": "Excelente lote ubicado en Ramos Mejía Norte.",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 900000,
+              "formattedAmount": "USD 900K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.56383729999999,
+            "latitude": -34.6395113
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.57444,
+          -34.64607239
+        ]
+      },
+      "properties": {
+        "postingId": 45410736,
+        "parentId": null,
+        "title": "Hermoso doble lote apto pb y 2 pisos !",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 370000,
+              "formattedAmount": "USD 370K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.57444,
+            "latitude": -34.64607239
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5581819,
+          -34.6835849
+        ]
+      },
+      "properties": {
+        "postingId": 47185099,
+        "parentId": null,
+        "title": "EXCELENTE LOTE CÉNTRICO 10 x 29.10  SAN JUSTO",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 180000,
+              "formattedAmount": "USD 180K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5581819,
+            "latitude": -34.6835849
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.55665959999999,
+          -34.6839489
+        ]
+      },
+      "properties": {
+        "postingId": 46266679,
+        "parentId": null,
+        "title": "Lote . | FLORIO, JUAN 3750",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 260000,
+              "formattedAmount": "USD 260K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.55665959999999,
+            "latitude": -34.6839489
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5564516,
+          -34.6492675
+        ]
+      },
+      "properties": {
+        "postingId": 44741317,
+        "parentId": null,
+        "title": "Lote | Gobernador Costa al 100",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 220000,
+              "formattedAmount": "USD 220K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5564516,
+            "latitude": -34.6492675
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.57427970000001,
+          -34.6498853
+        ]
+      },
+      "properties": {
+        "postingId": 45539383,
+        "parentId": null,
+        "title": "LOTE IDEAL CONSTRUCTOR - LAPRIDA 832 10X33 - RAMOS MEJÍA",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 250000,
+              "formattedAmount": "USD 250K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.57427970000001,
+            "latitude": -34.6498853
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5740945,
+          -34.6450341
+        ]
+      },
+      "properties": {
+        "postingId": 46546593,
+        "parentId": null,
+        "title": "Terreno - Ramos Mejia Sur",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 1300000,
+              "formattedAmount": "USD 1.3M"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5740945,
+            "latitude": -34.6450341
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.543191500000034,
+          -34.6650724
+        ]
+      },
+      "properties": {
+        "postingId": 44969825,
+        "parentId": null,
+        "title": "RETASADO !!!!  CASA LOTE DE 10 x 28 A DEMOLER-AV. MOSCONI 1446-LOMAS DEL MIRADOR",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 220000,
+              "formattedAmount": "USD 220K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.543191500000034,
+            "latitude": -34.6650724
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.56164770978698,
+          -34.662006581545825
+        ]
+      },
+      "properties": {
+        "postingId": 46695540,
+        "parentId": null,
+        "title": "Lote en Venta en Ramos Mejia Sur",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 470000,
+              "formattedAmount": "USD 470K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.56164770978698,
+            "latitude": -34.662006581545825
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.58795950000001,
+          -34.66151720000001
+        ]
+      },
+      "properties": {
+        "postingId": 43330897,
+        "parentId": null,
+        "title": "Lote . | CERVANTES 2737",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 170000,
+              "formattedAmount": "USD 170K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.58795950000001,
+            "latitude": -34.66151720000001
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.58540619999999,
+          -34.6583406
+        ]
+      },
+      "properties": {
+        "postingId": 46908222,
+        "parentId": null,
+        "title": "LOTE 8.66 X  42.34 CENTRO DE VILLA LUZURIAGA",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 180000,
+              "formattedAmount": "USD 180K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.58540619999999,
+            "latitude": -34.6583406
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.689011300000004,
+          -34.8790014
+        ]
+      },
+      "properties": {
+        "postingId": 46928316,
+        "parentId": null,
+        "title": "Fracción en venta con salón de fiestas, consultorios médicos y mas",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 495000,
+              "formattedAmount": "USD 495K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.689011300000004,
+            "latitude": -34.8790014
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5634656,
+          -34.6777631
+        ]
+      },
+      "properties": {
+        "postingId": 42880761,
+        "parentId": null,
+        "title": "Lote Comercial 446 m2 - Con mejoras - S.Justo (Ctro)",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 600000,
+              "formattedAmount": "USD 600K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5634656,
+            "latitude": -34.6777631
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5551037,
+          -34.6837941
+        ]
+      },
+      "properties": {
+        "postingId": 45421871,
+        "parentId": null,
+        "title": "Lote 1125 m² (26 Frente x 43 fondo) zona Comercial/Industrial - S.Justo (Ctro)",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 450000,
+              "formattedAmount": "USD 450K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5551037,
+            "latitude": -34.6837941
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.51388259999999,
+          -34.6661019
+        ]
+      },
+      "properties": {
+        "postingId": 45155924,
+        "parentId": null,
+        "title": "Excelente lote sobre colectora Av. Gral. Paz",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 170000,
+              "formattedAmount": "USD 170K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.51388259999999,
+            "latitude": -34.6661019
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5498279,
+          -34.6656879
+        ]
+      },
+      "properties": {
+        "postingId": 46887359,
+        "parentId": null,
+        "title": "Lote en Venta en Ramos Mejia Sur",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 310000,
+              "formattedAmount": "USD 310K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5498279,
+            "latitude": -34.6656879
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.50899506,
+          -34.69457626
+        ]
+      },
+      "properties": {
+        "postingId": 45504456,
+        "parentId": null,
+        "title": "VENTA Terreno a demoler, ideal emprendimiento, Ciudad Madero",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 0,
+              "formattedAmount": null
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.50899506,
+            "latitude": -34.69457626
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5793018,
+          -34.6583703
+        ]
+      },
+      "properties": {
+        "postingId": 47315780,
+        "parentId": null,
+        "title": "EXCELENTE FRACCIÓN IDEAL EMPRENDIMIENTO INMOBILIARIO 2952M2",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 960000,
+              "formattedAmount": "USD 960K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5793018,
+            "latitude": -34.6583703
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.65708542,
+          -34.84958267
+        ]
+      },
+      "properties": {
+        "postingId": 45165176,
+        "parentId": null,
+        "title": "EXCELENTE LOTE DE 1987 MTS² EN VENTA EN VIRREY DEL PINO",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 78000,
+              "formattedAmount": "USD 78K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.65708542,
+            "latitude": -34.84958267
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.69416809,
+          -34.8975029
+        ]
+      },
+      "properties": {
+        "postingId": 44255871,
+        "parentId": null,
+        "title": "2 Lotes 400m2 c/u - 1 C/ Galpon 100m2 y el otro c/ Viv.",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 55000,
+              "formattedAmount": "USD 55K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.69416809,
+            "latitude": -34.8975029
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5637319,
+          -34.6500853
+        ]
+      },
+      "properties": {
+        "postingId": 46592293,
+        "parentId": null,
+        "title": "Fraccion en Venta en Ramos Mejia",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 1100000,
+              "formattedAmount": "USD 1.1M"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5637319,
+            "latitude": -34.6500853
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.553976,
+          -34.662581
+        ]
+      },
+      "properties": {
+        "postingId": 47114843,
+        "parentId": null,
+        "title": "Venta Fracción Terreno Inversión Ramos Mejía",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 180000,
+              "formattedAmount": "USD 180K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.553976,
+            "latitude": -34.662581
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.559407299999975,
+          -34.6806769
+        ]
+      },
+      "properties": {
+        "postingId": 43581165,
+        "parentId": null,
+        "title": "LOTE IDEAL CONSTRUCTOR // MENDOZA 2600",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 570000,
+              "formattedAmount": "USD 570K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.559407299999975,
+            "latitude": -34.6806769
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.51581469999999,
+          -34.7059588
+        ]
+      },
+      "properties": {
+        "postingId": 47148889,
+        "parentId": null,
+        "title": "Lote . | GUANELLA 785",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 73000,
+              "formattedAmount": "USD 73K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.51581469999999,
+            "latitude": -34.7059588
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.56007360000001,
+          -34.63750005897008
+        ]
+      },
+      "properties": {
+        "postingId": 45225530,
+        "parentId": null,
+        "title": "TERRENOS/FRACCIONES/LOTEOS - FRACCIONES URBANAS - RAMOS MEJÍA, GRAN BS. AS. OESTE",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 1500000,
+              "formattedAmount": "USD 1.5M"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.56007360000001,
+            "latitude": -34.63750005897008
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5808578,
+          -34.6501261
+        ]
+      },
+      "properties": {
+        "postingId": 46915250,
+        "parentId": null,
+        "title": "Venta Lote en Ramos Mejía",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 95000,
+              "formattedAmount": "USD 95K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5808578,
+            "latitude": -34.6501261
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5484483,
+          -34.6884532
+        ]
+      },
+      "properties": {
+        "postingId": 47037411,
+        "parentId": null,
+        "title": "LOTE (TERRENO) - VENTA - SAN JUSTO",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 120000,
+              "formattedAmount": "USD 120K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5484483,
+            "latitude": -34.6884532
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6570859,
+          -34.8495826
+        ]
+      },
+      "properties": {
+        "postingId": 46186747,
+        "parentId": null,
+        "title": "EXCELENTE LOTE CON CASA 3 AMBIENTES VIRREY DEL PINO",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 72000,
+              "formattedAmount": "USD 72K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.6570859,
+            "latitude": -34.8495826
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.558608,
+          -34.6774234
+        ]
+      },
+      "properties": {
+        "postingId": 46659147,
+        "parentId": null,
+        "title": "Lote 562 m² Zona Comercial - Ideal Desarrollo Inmobiliario - S.Justo (Ctro)",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 590000,
+              "formattedAmount": "USD 590K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.558608,
+            "latitude": -34.6774234
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5757557,
+          -34.6697608
+        ]
+      },
+      "properties": {
+        "postingId": 46985565,
+        "parentId": null,
+        "title": "Terreno - Villa Luzuriaga",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 150000,
+              "formattedAmount": "USD 150K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5757557,
+            "latitude": -34.6697608
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.56389999999999,
+          -34.6485687
+        ]
+      },
+      "properties": {
+        "postingId": 43870231,
+        "parentId": null,
+        "title": "LOTE IDEAL CONSTRUCTOR",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 680000,
+              "formattedAmount": "USD 680K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.56389999999999,
+            "latitude": -34.6485687
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5134002446,
+          -34.6734311604
+        ]
+      },
+      "properties": {
+        "postingId": 46371245,
+        "parentId": null,
+        "title": "OPORTUNIDAD - LOTE PROPIO - MEDIDAS 10x31- EXCELENTE UBICACION",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 120000,
+              "formattedAmount": "USD 120K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5134002446,
+            "latitude": -34.6734311604
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.57452869999999,
+          -34.67528679999999
+        ]
+      },
+      "properties": {
+        "postingId": 46741030,
+        "parentId": null,
+        "title": "Lote . | RIVERA INDARTE 2251",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 130000,
+              "formattedAmount": "USD 130K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.57452869999999,
+            "latitude": -34.67528679999999
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5157145,
+          -34.6978479
+        ]
+      },
+      "properties": {
+        "postingId": 45406949,
+        "parentId": null,
+        "title": "Terreno - Tapiales",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 120000,
+              "formattedAmount": "USD 120K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5157145,
+            "latitude": -34.6978479
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.57717514,
+          -34.68318558
+        ]
+      },
+      "properties": {
+        "postingId": 45355967,
+        "parentId": null,
+        "title": "LOTE CON CASA 3 AMBIENTES GARAGE Y QUINCHO A TERMINAR",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 79000,
+              "formattedAmount": "USD 79K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.57717514,
+            "latitude": -34.68318558
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.544217,
+          -34.672859
+        ]
+      },
+      "properties": {
+        "postingId": 45295352,
+        "parentId": null,
+        "title": "Nazca 1028",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 250000,
+              "formattedAmount": "USD 250K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.544217,
+            "latitude": -34.672859
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5439738,
+          -34.6680313
+        ]
+      },
+      "properties": {
+        "postingId": 42959815,
+        "parentId": null,
+        "title": "LOTE 730m²  - APTO DESARROLLO INMOBILIARIO - Lomas Del Mirador",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 160000,
+              "formattedAmount": "USD 160K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5439738,
+            "latitude": -34.6680313
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.59431499999999,
+          -34.7013682
+        ]
+      },
+      "properties": {
+        "postingId": 45539625,
+        "parentId": null,
+        "title": "Terreno 11 x 21 ? Isidro Casanova",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 110000,
+              "formattedAmount": "USD 110K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.59431499999999,
+            "latitude": -34.7013682
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.553635499999984,
+          -34.6549073
+        ]
+      },
+      "properties": {
+        "postingId": 46565874,
+        "parentId": null,
+        "title": "Lote en Venta en Ramos Mejia",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 170000,
+              "formattedAmount": "USD 170K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.553635499999984,
+            "latitude": -34.6549073
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5509069,
+          -34.6696572
+        ]
+      },
+      "properties": {
+        "postingId": 45326479,
+        "parentId": null,
+        "title": "Brandsen 3100",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 6000000,
+              "formattedAmount": "USD 6M"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5509069,
+            "latitude": -34.6696572
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.57966800000001,
+          -34.6893786
+        ]
+      },
+      "properties": {
+        "postingId": 45496360,
+        "parentId": null,
+        "title": "Lote . | LEON GALLO al 2800",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 100000,
+              "formattedAmount": "USD 100K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.57966800000001,
+            "latitude": -34.6893786
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.58540619999999,
+          -34.6583406
+        ]
+      },
+      "properties": {
+        "postingId": 46908232,
+        "parentId": null,
+        "title": "LOTE CENTRICO 8.66 X  42.34  VILLA LUZURIAGA",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 179900,
+              "formattedAmount": "USD 179K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.58540619999999,
+            "latitude": -34.6583406
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.55498209999996,
+          -34.6409341
+        ]
+      },
+      "properties": {
+        "postingId": 44666961,
+        "parentId": null,
+        "title": "LOTE EN RAMOS MEJIA DE 10.29 X 50.17",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 500000,
+              "formattedAmount": "USD 500K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.55498209999996,
+            "latitude": -34.6409341
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5356477,
+          -34.7226033
+        ]
+      },
+      "properties": {
+        "postingId": 46992634,
+        "parentId": null,
+        "title": "EL LOTE + GRANDE  en B° El Resguardo, Ciudad Evita",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 210000,
+              "formattedAmount": "USD 210K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5356477,
+            "latitude": -34.7226033
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5162145,
+          -34.6775317
+        ]
+      },
+      "properties": {
+        "postingId": 47328439,
+        "parentId": null,
+        "title": "Oportunidad Lote de 333 m2",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 110000,
+              "formattedAmount": "USD 110K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.5162145,
+            "latitude": -34.6775317
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.55455610000001,
+          -34.7036073
+        ]
+      },
+      "properties": {
+        "postingId": 45402501,
+        "parentId": null,
+        "title": "EXCELENTE LOTE ZONIFICACIÓN U2B! IDEAL INVERSOR CONSTRUCTOR!",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 78000,
+              "formattedAmount": "USD 78K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.55455610000001,
+            "latitude": -34.7036073
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.574485,
+          -34.6461038
+        ]
+      },
+      "properties": {
+        "postingId": 46922257,
+        "parentId": null,
+        "title": "Lote | Doble | Ideal Construcción Dptos.",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 330000,
+              "formattedAmount": "USD 330K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.574485,
+            "latitude": -34.6461038
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6553688,
+          -34.84994125
+        ]
+      },
+      "properties": {
+        "postingId": 44721168,
+        "parentId": null,
+        "title": "VENTA DE 4 PARCELAS EN BARRIO CERRADO JUNTAS O SEPARADAS",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 80000,
+              "formattedAmount": "USD 80K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.6553688,
+            "latitude": -34.84994125
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.554166399999986,
+          -34.6433614
+        ]
+      },
+      "properties": {
+        "postingId": 43870616,
+        "parentId": null,
+        "title": "Lote 818 metros! atentos constructores!!",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 700000,
+              "formattedAmount": "USD 700K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.554166399999986,
+            "latitude": -34.6433614
+          },
+          "visibility": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.62284838280336,
+          -34.78594718426068
+        ]
+      },
+      "properties": {
+        "postingId": 46544828,
+        "parentId": null,
+        "title": "Lote en Venta en Lomas del Mirador",
+        "price": {
+          "lowPricePercentage": null,
+          "operationType": {
+            "name": "Venta",
+            "operationTypeId": "1"
+          },
+          "prices": [
+            {
+              "isoCode": "USD",
+              "currencyId": null,
+              "currency": "USD",
+              "amount": 240000,
+              "formattedAmount": "USD 240K"
+            }
+          ]
+        },
+        "geolocation": {
+          "geolocation": {
+            "longitude": -58.62284838280336,
+            "latitude": -34.78594718426068
+          },
+          "visibility": null
+        }
+      }
+    }
+  ]
+}
