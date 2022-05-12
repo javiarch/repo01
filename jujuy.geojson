@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.30101776123047,
+          -24.18606446639686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.4011821746826,
+          -24.121531886511093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tumbaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.46754002571106,
+          -23.857748751431366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maimara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.40863871574402,
+          -23.624699289313025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tilcara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.39346814155577,
+          -23.576908635987973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humahuaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.34749507904053,
+          -23.20636462630146
+        ]
+      }
+    }
+  ]
+}
