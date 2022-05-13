@@ -74,6 +74,58 @@
           -23.20636462630146
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Aguilar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.68043231964111,
+          -23.21396214346533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abra Pampa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.69472312927246,
+          -22.724257128165284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Quiaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.59726238250732,
+          -22.102201610918527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Catalina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.05212211608887,
+          -21.943896392163506
+        ]
+      }
     }
   ]
 }
