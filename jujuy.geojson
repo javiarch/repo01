@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "San Salvador de Jujuy"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +16,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Yala"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -124,6 +128,370 @@
         "coordinates": [
           -66.05212211608887,
           -21.943896392163506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cusi Cusi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.49366736412048,
+          -22.34056938062583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barrancas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.08981788158417,
+          -23.342635087624572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abralaite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8076924085617,
+          -23.21687087732636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cieneguilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.86681365966797,
+          -22.100680718663902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mina Pirquitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.45606279373169,
+          -22.68773104473996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Antonio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.33195972442627,
+          -24.369884211269028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.11802673339844,
+          -24.37607519439933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Carmen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.26170194149017,
+          -24.389413851585516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Mendieta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.96875643730164,
+          -24.316742666096005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Pedro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.86784100532532,
+          -24.23172269506852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arrayanal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.84032154083252,
+          -24.178219899388985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodeíto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.76920008659363,
+          -24.271066051818266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Esperanza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.84008550643921,
+          -24.225666533159746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Libertador General San Martín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.79290008544922,
+          -23.815304542939373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Talar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3603992462158,
+          -23.558017631421087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chalicán"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.80649352073668,
+          -24.0693249840131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.47168946266174,
+          -23.642863228200298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palma Sola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.30451273918152,
+          -23.977832126361402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Clara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.66208875179291,
+          -24.308710601491633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Piquete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.67286586761475,
+          -24.177686470895935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fraile Pintado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8029637336731,
+          -23.944154535033544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Ana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.98863697052002,
+          -23.356036288549003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pampichuela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.00832438468933,
+          -23.554585293699212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Francisco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.95107531547546,
+          -23.62221236350815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinalito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.41364645957947,
+          -23.667991750818594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calilegua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.77008521556854,
+          -23.774520496166282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valle Grande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.9482536315918,
+          -23.476236775090392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Quemado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.82420146465302,
+          -24.104595499952374
         ]
       }
     }
