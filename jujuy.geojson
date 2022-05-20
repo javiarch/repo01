@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "San Salvador de Jujuy"
+        "name": "San Salvador de Jujuy",
+        "departamento": "Dr. Manuel Belgrano"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yala"
+        "name": "Yala",
+        "departamento": "Dr. Manuel Belgrano"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tumbaya"
+        "name": "Tumbaya",
+        "departamento": "Tumbaya"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Maimara"
+        "name": "Maimara",
+        "departamento": "Tilcara"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +60,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tilcara"
+        "name": "Tilcara",
+        "departamento": "Tilcara"
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +74,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Humahuaca"
+        "name": "Humahuaca",
+        "departamento": "Humahuaca"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +88,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "El Aguilar"
+        "name": "El Aguilar",
+        "departamento": "Humahuaca"
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +102,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Abra Pampa"
+        "name": "Abra Pampa",
+        "departamento": "Cochinoca"
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +116,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "La Quiaca"
+        "name": "La Quiaca",
+        "departamento": "Yavi"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +130,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Santa Catalina"
+        "name": "Santa Catalina",
+        "departamento": "Santa Catalina"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +144,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cusi Cusi"
+        "name": "Cusi Cusi",
+        "departamento": "Santa Catalina"
       },
       "geometry": {
         "type": "Point",
@@ -147,7 +158,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Barrancas"
+        "name": "Barrancas (Abdón Castro Tolay)",
+        "departamento": "Cochinoca"
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +172,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Abralaite"
+        "name": "Abralaite",
+        "departamento": "Cochinoca"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +186,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cieneguilla"
+        "name": "Cieneguillas",
+        "departamento": "Santa Catalina"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +200,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mina Pirquitas"
+        "name": "Mina Pirquitas",
+        "departamento": "Rinconada"
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +214,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "San Antonio"
+        "name": "San Antonio",
+        "departamento": "San Antonio"
       },
       "geometry": {
         "type": "Point",
@@ -268,7 +284,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Arrayanal"
+        "name": "Arrayanal",
+        "departamento": "San Pedro"
       },
       "geometry": {
         "type": "Point",
@@ -281,7 +298,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rodeíto"
+        "name": "Rodeíto",
+        "departamento": "San Pedro"
       },
       "geometry": {
         "type": "Point",
@@ -294,7 +312,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "La Esperanza"
+        "name": "La Esperanza",
+        "departamento": "San Pedro"
       },
       "geometry": {
         "type": "Point",
@@ -489,7 +508,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "El Quemado"
+        "name": "El Quemado",
+        "departamento": "San Pedro"
       },
       "geometry": {
         "type": "Point",
