@@ -212,7 +212,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Perico"
+        "name": "Perico",
+        "departamento": "El Carmen"
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +226,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "El Carmen"
+        "name": "El Carmen",
+        "departamento": "El Carmen"
       },
       "geometry": {
         "type": "Point",
@@ -238,7 +240,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "La Mendieta"
+        "name": "La Mendieta",
+        "departamento": "San Pedro"
       },
       "geometry": {
         "type": "Point",
@@ -251,7 +254,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "San Pedro"
+        "name": "San Pedro de Jujuy",
+        "departamento": "San Pedro"
       },
       "geometry": {
         "type": "Point",
