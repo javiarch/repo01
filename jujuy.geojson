@@ -326,7 +326,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Libertador General San Martín"
+        "name": "Libertador General San Martín",
+        "departamento": "Ledesma"
       },
       "geometry": {
         "type": "Point",
@@ -339,7 +340,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "El Talar"
+        "name": "El Talar",
+        "departamento": "Santa Bárbara"
       },
       "geometry": {
         "type": "Point",
@@ -352,7 +354,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chalicán"
+        "name": "Chalicán",
+        "departamento": ""
       },
       "geometry": {
         "type": "Point",
